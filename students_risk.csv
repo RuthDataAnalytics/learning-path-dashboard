@@ -1,0 +1,701 @@
+Student_ID,School_ID,Class,Attendance,Prev_Year_Pct,English,Maths,Science,Social,Average,English_Z,English_Status,Maths_Z,Maths_Status,Science_Z,Science_Status,Social_Z,Social_Status,Weak_Count,Weak_Subjects,Cluster,Profile,English_PT2,Maths_PT2,Science_PT2,Social_PT2,At_Risk,Risk_Probability,Risk_Level
+S001-C6-01,S001,6,93.2,67.1,58,58,73,66,63.8,0.05,Average,0.06,Average,0.91,Average,0.57,Average,0,None,2,Needs some support,69,58,76,74,0,0.5,Low
+S001-C6-02,S001,6,92.3,50.2,51,57,40,41,47.2,-0.36,Average,0.01,Average,-1.06,Weak,-0.97,Average,1,Science,0,Needs intensive support,50,61,44,43,0,54.5,Medium
+S001-C6-03,S001,6,79.9,53.5,46,42,65,52,51.2,-0.66,Average,-0.82,Average,0.43,Average,-0.29,Average,0,None,2,Needs some support,46,49,52,53,0,40.5,Medium
+S001-C6-04,S001,6,76.6,57.7,64,54,66,58,60.5,0.4,Average,-0.16,Average,0.49,Average,0.08,Average,0,None,2,Needs some support,64,43,70,60,0,1.5,Low
+S001-C6-05,S001,6,83.2,66.7,58,49,64,48,54.8,0.05,Average,-0.44,Average,0.37,Average,-0.54,Average,0,None,2,Needs some support,53,55,57,52,0,5.5,Low
+S001-C6-06,S001,6,72.3,55.2,67,71,66,64,67.0,0.58,Average,0.78,Average,0.49,Average,0.45,Average,0,None,2,Needs some support,64,71,73,66,0,2.5,Low
+S001-C6-07,S001,6,76.2,51.2,54,66,60,43,55.8,-0.19,Average,0.5,Average,0.13,Average,-0.85,Average,0,None,2,Needs some support,53,62,69,51,0,12.0,Low
+S001-C6-08,S001,6,84.9,60.8,72,75,74,60,70.2,0.87,Average,1.0,Strong,0.97,Average,0.2,Average,0,None,2,Needs some support,60,81,77,63,0,0.0,Low
+S001-C6-09,S001,6,90.7,61.2,54,56,48,48,51.5,-0.19,Average,-0.05,Average,-0.59,Average,-0.54,Average,0,None,2,Needs some support,61,58,56,47,0,3.5,Low
+S001-C6-10,S001,6,98.8,71.8,82,77,69,77,76.2,1.46,Strong,1.11,Strong,0.67,Average,1.25,Strong,0,None,1,On track,85,85,62,92,0,1.0,Low
+S001-C7-01,S001,7,87.7,92.5,64,92,86,83,81.2,0.22,Average,1.83,Strong,1.3,Strong,1.21,Strong,0,None,1,On track,60,85,99,81,0,0.0,Low
+S001-C7-02,S001,7,72.1,60.1,66,75,59,57,64.2,0.34,Average,0.83,Strong,-0.14,Average,-0.16,Average,0,None,2,Needs some support,62,66,58,57,0,1.0,Low
+S001-C7-03,S001,7,95.3,54.4,50,59,55,62,56.5,-0.59,Average,-0.11,Average,-0.35,Average,0.1,Average,0,None,2,Needs some support,55,68,63,59,0,4.0,Low
+S001-C7-04,S001,7,85.4,47.1,40,54,54,51,49.8,-1.17,Weak,-0.4,Average,-0.4,Average,-0.48,Average,1,English,2,Needs some support,40,67,49,39,1,28.5,Low
+S001-C7-05,S001,7,76.7,54.0,56,52,57,62,56.8,-0.24,Average,-0.52,Average,-0.24,Average,0.1,Average,0,None,2,Needs some support,53,55,55,56,0,6.5,Low
+S001-C7-06,S001,7,89.4,89.8,90,75,90,91,86.5,1.73,Strong,0.83,Strong,1.51,Strong,1.64,Strong,0,None,1,On track,78,79,80,89,0,0.0,Low
+S001-C7-07,S001,7,86.5,98.8,99,90,100,100,97.2,2.25,Strong,1.71,Strong,2.04,Strong,2.12,Strong,0,None,1,On track,98,84,94,99,0,0.0,Low
+S001-C7-08,S001,7,80.7,80.3,63,79,91,66,74.8,0.17,Average,1.07,Strong,1.57,Strong,0.31,Average,0,None,1,On track,62,68,87,65,0,0.0,Low
+S001-C7-09,S001,7,88.8,48.5,41,54,45,57,49.2,-1.11,Weak,-0.4,Average,-0.88,Average,-0.16,Average,1,English,2,Needs some support,45,53,48,62,0,41.0,Medium
+S001-C7-10,S001,7,100.0,41.5,46,55,38,50,47.2,-0.82,Average,-0.34,Average,-1.26,Weak,-0.53,Average,1,Science,0,Needs intensive support,40,66,50,59,0,76.0,High
+S001-C8-01,S001,8,75.1,80.7,84,88,72,71,78.8,1.46,Strong,1.9,Strong,0.85,Average,0.84,Average,0,None,1,On track,90,72,72,74,0,0.0,Low
+S001-C8-02,S001,8,90.4,69.3,73,64,72,72,70.2,0.84,Average,0.41,Average,0.85,Average,0.9,Average,0,None,1,On track,73,61,73,71,0,0.0,Low
+S001-C8-03,S001,8,100.0,52.1,42,57,43,58,50.0,-0.92,Average,-0.02,Average,-0.82,Average,0.06,Average,0,None,2,Needs some support,43,48,47,61,0,35.5,Medium
+S001-C8-04,S001,8,81.4,83.2,83,86,95,77,85.2,1.4,Strong,1.77,Strong,2.18,Strong,1.21,Strong,0,None,1,On track,92,83,100,73,0,0.0,Low
+S001-C8-05,S001,8,80.9,43.8,50,53,53,57,53.2,-0.47,Average,-0.27,Average,-0.24,Average,-0.0,Average,0,None,2,Needs some support,50,58,49,51,0,16.5,Low
+S001-C8-06,S001,8,99.6,58.6,84,67,55,54,65.0,1.46,Strong,0.6,Average,-0.13,Average,-0.18,Average,0,None,2,Needs some support,75,61,64,65,0,0.5,Low
+S001-C8-07,S001,8,86.2,71.5,73,69,62,57,65.2,0.84,Average,0.72,Average,0.28,Average,-0.0,Average,0,None,2,Needs some support,69,65,50,50,0,0.0,Low
+S001-C8-08,S001,8,94.9,54.6,45,57,58,48,52.0,-0.75,Average,-0.02,Average,0.05,Average,-0.54,Average,0,None,2,Needs some support,34,66,54,50,1,18.5,Low
+S001-C8-09,S001,8,88.5,55.4,67,69,73,73,70.5,0.5,Average,0.72,Average,0.91,Average,0.96,Average,0,None,2,Needs some support,73,68,74,73,0,0.5,Low
+S001-C8-10,S001,8,80.5,42.4,45,45,72,46,52.0,-0.75,Average,-0.77,Average,0.85,Average,-0.66,Average,0,None,2,Needs some support,43,38,69,34,1,49.5,Medium
+S001-C9-01,S001,9,95.6,80.9,76,85,73,77,77.8,1.08,Strong,1.45,Strong,0.92,Average,1.2,Strong,0,None,1,On track,71,76,91,81,0,0.0,Low
+S001-C9-02,S001,9,88.7,66.6,40,60,42,51,48.2,-1.07,Weak,0.0,Average,-0.96,Average,-0.41,Average,1,English,2,Needs some support,49,48,59,50,0,43.0,Medium
+S001-C9-03,S001,9,88.5,69.9,73,84,72,80,77.2,0.9,Average,1.39,Strong,0.86,Average,1.39,Strong,0,None,1,On track,62,86,62,80,0,0.0,Low
+S001-C9-04,S001,9,82.8,73.5,68,46,64,57,58.8,0.6,Average,-0.81,Average,0.37,Average,-0.04,Average,0,None,2,Needs some support,70,42,56,55,0,6.0,Low
+S001-C9-05,S001,9,81.7,72.1,79,82,65,72,74.5,1.26,Strong,1.28,Strong,0.44,Average,0.89,Average,0,None,1,On track,64,85,63,61,0,0.0,Low
+S001-C9-06,S001,9,82.8,63.5,58,45,62,72,59.2,0.0,Average,-0.87,Average,0.25,Average,0.89,Average,0,None,2,Needs some support,53,51,71,71,0,7.5,Low
+S001-C9-07,S001,9,75.8,72.6,88,72,81,84,81.2,1.8,Strong,0.7,Average,1.41,Strong,1.64,Strong,0,None,1,On track,76,65,84,81,0,0.0,Low
+S001-C9-08,S001,9,87.5,26.6,40,46,38,61,46.2,-1.07,Weak,-0.81,Average,-1.21,Weak,0.21,Average,2,"English, Science",0,Needs intensive support,51,44,42,67,0,76.5,High
+S001-C9-09,S001,9,84.5,39.3,52,29,50,41,43.0,-0.35,Average,-1.79,Weak,-0.48,Average,-1.03,Weak,2,"Maths, Social",0,Needs intensive support,63,36,42,45,1,74.5,High
+S001-C9-10,S001,9,91.7,46.5,42,48,44,48,45.5,-0.95,Average,-0.69,Average,-0.84,Average,-0.6,Average,0,None,0,Needs intensive support,42,51,41,40,0,58.0,Medium
+S001-C10-01,S001,10,100.0,62.5,89,56,71,77,73.2,1.59,Strong,-0.1,Average,0.66,Average,0.99,Strong,0,None,1,On track,93,60,56,84,0,0.0,Low
+S001-C10-02,S001,10,83.0,63.0,62,61,73,69,66.2,0.13,Average,0.16,Average,0.76,Average,0.55,Average,0,None,2,Needs some support,60,50,62,72,0,0.0,Low
+S001-C10-03,S001,10,95.2,51.5,58,57,45,47,51.8,-0.08,Average,-0.05,Average,-0.69,Average,-0.68,Average,0,None,2,Needs some support,63,64,50,54,0,5.0,Low
+S001-C10-04,S001,10,92.9,71.1,74,83,68,78,75.8,0.78,Average,1.33,Strong,0.5,Average,1.05,Strong,0,None,1,On track,69,76,73,80,0,0.0,Low
+S001-C10-05,S001,10,86.3,63.6,66,65,69,59,64.8,0.35,Average,0.38,Average,0.55,Average,-0.01,Average,0,None,2,Needs some support,55,51,60,55,0,0.0,Low
+S001-C10-06,S001,10,85.5,72.2,71,73,77,66,71.8,0.62,Average,0.8,Average,0.97,Strong,0.38,Average,0,None,1,On track,59,68,76,68,0,0.0,Low
+S001-C10-07,S001,10,80.0,84.1,100,100,98,98,99.0,2.19,Strong,2.24,Strong,2.06,Strong,2.16,Strong,0,None,1,On track,97,97,100,91,0,0.0,Low
+S001-C10-08,S001,10,80.8,60.3,56,70,61,55,60.5,-0.19,Average,0.64,Average,0.14,Average,-0.23,Average,0,None,2,Needs some support,69,81,61,72,0,2.5,Low
+S001-C10-09,S001,10,91.3,51.8,51,59,59,53,55.5,-0.46,Average,0.06,Average,0.03,Average,-0.34,Average,0,None,2,Needs some support,54,57,58,53,0,3.0,Low
+S001-C10-10,S001,10,89.9,44.2,44,49,53,57,50.8,-0.84,Average,-0.47,Average,-0.28,Average,-0.12,Average,0,None,2,Needs some support,43,42,58,51,0,31.0,Medium
+S001-C11-01,S001,11,94.9,81.2,84,76,84,82,81.5,1.59,Strong,0.9,Strong,1.37,Strong,1.18,Strong,0,None,1,On track,94,88,86,79,0,0.0,Low
+S001-C11-02,S001,11,81.4,68.0,79,66,70,72,71.8,1.26,Strong,0.35,Average,0.55,Average,0.62,Average,0,None,1,On track,78,65,69,79,0,0.0,Low
+S001-C11-03,S001,11,89.8,54.1,57,50,56,60,55.8,-0.16,Average,-0.55,Average,-0.28,Average,-0.06,Average,0,None,2,Needs some support,58,50,53,57,0,5.0,Low
+S001-C11-04,S001,11,95.7,94.7,78,91,85,100,88.5,1.2,Strong,1.74,Strong,1.43,Strong,2.2,Strong,0,None,1,On track,79,83,81,83,0,0.0,Low
+S001-C11-05,S001,11,81.3,44.3,33,46,44,51,43.5,-1.71,Weak,-0.77,Average,-0.98,Average,-0.56,Average,1,English,0,Needs intensive support,34,40,45,60,1,68.0,High
+S001-C11-06,S001,11,100.0,70.8,62,60,71,57,62.5,0.17,Average,0.01,Average,0.61,Average,-0.23,Average,0,None,2,Needs some support,62,71,68,61,0,0.5,Low
+S001-C11-07,S001,11,97.4,84.7,76,100,89,99,91.0,1.07,Strong,2.24,Strong,1.67,Strong,2.14,Strong,0,None,1,On track,67,96,96,94,0,0.0,Low
+S001-C11-08,S001,11,83.2,36.1,38,34,43,30,36.2,-1.38,Weak,-1.44,Weak,-1.04,Weak,-1.75,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,42,33,49,37,1,96.5,High
+S001-C11-09,S001,11,89.0,61.0,66,51,48,70,58.8,0.42,Average,-0.49,Average,-0.75,Average,0.51,Average,0,None,2,Needs some support,65,49,56,64,0,4.5,Low
+S001-C11-10,S001,11,82.0,74.3,68,76,68,83,73.8,0.55,Average,0.9,Strong,0.43,Average,1.24,Strong,0,None,1,On track,73,83,78,73,0,0.0,Low
+S001-C12-01,S001,12,86.0,92.2,93,99,81,94,91.8,1.87,Strong,2.21,Strong,1.33,Strong,1.85,Strong,0,None,1,On track,87,91,88,96,0,0.0,Low
+S001-C12-02,S001,12,73.9,68.8,62,76,84,90,78.0,0.29,Average,0.97,Strong,1.5,Strong,1.65,Strong,0,None,1,On track,48,76,88,82,0,1.0,Low
+S001-C12-03,S001,12,100.0,52.8,49,63,66,63,60.2,-0.37,Average,0.27,Average,0.51,Average,0.32,Average,0,None,2,Needs some support,51,66,69,68,0,8.0,Low
+S001-C12-04,S001,12,87.3,21.2,36,34,23,27,30.0,-1.04,Weak,-1.29,Weak,-1.83,Weak,-1.46,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,48,38,25,31,1,100.0,High
+S001-C12-05,S001,12,87.5,49.8,38,50,42,40,42.5,-0.93,Weak,-0.43,Average,-0.8,Average,-0.82,Average,1,English,0,Needs intensive support,38,46,58,47,1,90.5,High
+S001-C12-06,S001,12,79.7,55.1,51,76,61,55,60.8,-0.27,Average,0.97,Strong,0.24,Average,-0.08,Average,0,None,2,Needs some support,45,77,56,55,0,4.0,Low
+S001-C12-07,S001,12,87.1,61.9,70,71,61,61,65.8,0.7,Average,0.7,Average,0.24,Average,0.22,Average,0,None,2,Needs some support,62,79,57,49,0,0.0,Low
+S001-C12-08,S001,12,69.6,46.8,69,71,56,62,64.5,0.65,Average,0.7,Average,-0.03,Average,0.27,Average,0,None,2,Needs some support,59,67,48,63,0,7.0,Low
+S001-C12-09,S001,12,100.0,71.4,66,59,54,68,61.8,0.49,Average,0.05,Average,-0.14,Average,0.56,Average,0,None,2,Needs some support,65,55,58,66,0,0.0,Low
+S001-C12-10,S001,12,76.6,44.8,42,64,58,51,53.8,-0.73,Average,0.32,Average,0.08,Average,-0.28,Average,0,None,2,Needs some support,35,54,59,56,1,51.0,Medium
+S002-C6-01,S002,6,81.1,70.3,72,60,67,61,65.0,0.87,Average,0.17,Average,0.55,Average,0.26,Average,0,None,2,Needs some support,79,60,71,61,0,0.0,Low
+S002-C6-02,S002,6,95.4,50.7,35,51,41,42,42.2,-1.31,Weak,-0.33,Average,-1.0,Average,-0.91,Average,1,English,0,Needs intensive support,37,51,43,54,1,73.5,High
+S002-C6-03,S002,6,81.1,51.4,51,60,58,56,56.2,-0.36,Average,0.17,Average,0.01,Average,-0.05,Average,0,None,2,Needs some support,52,58,47,54,0,2.5,Low
+S002-C6-04,S002,6,83.4,50.9,57,45,54,59,53.8,-0.01,Average,-0.66,Average,-0.23,Average,0.14,Average,0,None,2,Needs some support,65,46,56,46,0,11.5,Low
+S002-C6-05,S002,6,92.3,31.0,46,36,27,29,34.5,-0.66,Average,-1.16,Weak,-1.84,Weak,-1.71,Weak,3,"Maths, Science, Social",0,Needs intensive support,57,30,37,31,1,98.0,High
+S002-C6-06,S002,6,90.1,55.3,73,54,67,58,63.0,0.93,Average,-0.16,Average,0.55,Average,0.08,Average,0,None,2,Needs some support,71,60,67,62,0,2.0,Low
+S002-C6-07,S002,6,88.4,45.1,54,65,53,64,59.0,-0.19,Average,0.45,Average,-0.29,Average,0.45,Average,0,None,2,Needs some support,57,66,53,62,0,2.0,Low
+S002-C6-08,S002,6,92.2,51.7,30,44,55,48,44.2,-1.6,Weak,-0.71,Average,-0.17,Average,-0.54,Average,1,English,0,Needs intensive support,38,46,60,47,1,73.0,High
+S002-C6-09,S002,6,83.2,66.1,71,82,75,75,75.8,0.81,Average,1.39,Strong,1.03,Strong,1.12,Strong,0,None,1,On track,68,80,81,82,0,0.0,Low
+S002-C6-10,S002,6,84.1,51.2,64,57,63,77,65.2,0.4,Average,0.01,Average,0.31,Average,1.25,Strong,0,None,2,Needs some support,52,62,62,74,0,3.0,Low
+S002-C7-01,S002,7,85.4,80.3,77,64,72,65,69.5,0.98,Strong,0.19,Average,0.55,Average,0.26,Average,0,None,1,On track,79,64,62,71,0,0.0,Low
+S002-C7-02,S002,7,88.1,64.8,64,60,68,44,59.0,0.22,Average,-0.05,Average,0.34,Average,-0.85,Average,0,None,2,Needs some support,69,55,64,47,0,11.5,Low
+S002-C7-03,S002,7,94.2,54.7,80,73,67,75,73.8,1.15,Strong,0.71,Average,0.29,Average,0.79,Strong,0,None,1,On track,81,80,66,66,0,1.5,Low
+S002-C7-04,S002,7,89.5,95.5,97,94,100,94,96.2,2.14,Strong,1.94,Strong,2.04,Strong,1.8,Strong,0,None,1,On track,88,88,85,85,0,0.0,Low
+S002-C7-05,S002,7,84.2,63.9,71,76,64,66,69.2,0.63,Average,0.89,Strong,0.13,Average,0.31,Average,0,None,2,Needs some support,68,69,68,63,0,0.0,Low
+S002-C7-06,S002,7,84.4,47.6,58,45,59,63,56.2,-0.12,Average,-0.93,Average,-0.14,Average,0.15,Average,0,None,2,Needs some support,54,37,54,64,1,11.0,Low
+S002-C7-07,S002,7,100.0,61.6,63,59,85,78,71.2,0.17,Average,-0.11,Average,1.25,Strong,0.95,Strong,0,None,1,On track,63,61,87,73,0,2.0,Low
+S002-C7-08,S002,7,90.2,52.4,86,67,67,72,73.0,1.5,Strong,0.36,Average,0.29,Average,0.63,Average,0,None,1,On track,92,60,68,63,0,0.0,Low
+S002-C7-09,S002,7,89.8,62.5,78,89,85,87,84.8,1.04,Strong,1.65,Strong,1.25,Strong,1.43,Strong,0,None,1,On track,86,83,81,79,0,1.0,Low
+S002-C7-10,S002,7,80.1,51.6,60,68,46,71,61.2,-0.01,Average,0.42,Average,-0.83,Average,0.58,Average,0,None,2,Needs some support,63,69,56,66,0,9.0,Low
+S002-C8-01,S002,8,84.6,51.6,51,71,65,54,60.2,-0.41,Average,0.84,Average,0.45,Average,-0.18,Average,0,None,2,Needs some support,55,70,61,49,0,2.0,Low
+S002-C8-02,S002,8,85.3,50.6,45,35,46,45,42.8,-0.75,Average,-1.39,Weak,-0.65,Average,-0.73,Average,1,Maths,0,Needs intensive support,50,43,43,43,0,81.5,High
+S002-C8-03,S002,8,87.6,20.0,32,41,35,24,33.0,-1.49,Weak,-1.01,Weak,-1.28,Weak,-1.99,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,35,45,39,39,1,98.0,High
+S002-C8-04,S002,8,100.0,43.8,50,50,52,49,50.2,-0.47,Average,-0.46,Average,-0.3,Average,-0.48,Average,0,None,0,Needs intensive support,52,50,60,54,0,31.5,Medium
+S002-C8-05,S002,8,83.6,51.2,54,53,59,56,55.5,-0.24,Average,-0.27,Average,0.1,Average,-0.06,Average,0,None,2,Needs some support,50,51,58,51,0,1.5,Low
+S002-C8-06,S002,8,66.8,89.1,99,73,87,86,86.2,2.31,Strong,0.97,Average,1.72,Strong,1.75,Strong,0,None,1,On track,92,65,75,80,0,0.5,Low
+S002-C8-07,S002,8,81.8,32.2,60,53,56,52,55.2,0.1,Average,-0.27,Average,-0.07,Average,-0.3,Average,0,None,2,Needs some support,73,57,60,62,0,11.5,Low
+S002-C8-08,S002,8,83.8,46.0,40,56,48,47,47.8,-1.03,Weak,-0.08,Average,-0.53,Average,-0.6,Average,1,English,0,Needs intensive support,47,56,52,52,0,33.5,Medium
+S002-C8-09,S002,8,91.6,68.5,87,69,82,82,80.0,1.63,Strong,0.72,Average,1.43,Strong,1.51,Strong,0,None,1,On track,83,66,93,80,0,0.0,Low
+S002-C8-10,S002,8,90.6,47.9,70,61,58,71,65.0,0.67,Average,0.22,Average,0.05,Average,0.84,Average,0,None,2,Needs some support,67,66,57,62,0,1.0,Low
+S002-C9-01,S002,9,76.7,40.1,61,46,70,40,54.2,0.18,Average,-0.81,Average,0.74,Average,-1.09,Weak,1,Social,2,Needs some support,54,46,69,30,1,53.5,Medium
+S002-C9-02,S002,9,89.7,84.9,88,96,92,100,94.0,1.8,Strong,2.09,Strong,2.08,Strong,2.63,Strong,0,None,1,On track,88,90,86,94,0,0.0,Low
+S002-C9-03,S002,9,89.2,59.5,68,71,55,58,63.0,0.6,Average,0.64,Average,-0.17,Average,0.02,Average,0,None,2,Needs some support,70,61,47,58,0,0.0,Low
+S002-C9-04,S002,9,89.4,70.0,78,81,74,72,76.2,1.2,Strong,1.22,Strong,0.98,Average,0.89,Average,0,None,1,On track,68,82,73,61,0,0.0,Low
+S002-C9-05,S002,9,80.2,65.4,56,78,74,72,70.0,-0.11,Average,1.05,Strong,0.98,Average,0.89,Average,0,None,1,On track,58,76,77,62,0,4.0,Low
+S002-C9-06,S002,9,100.0,80.8,67,71,77,82,74.2,0.54,Average,0.64,Average,1.17,Strong,1.51,Strong,0,None,1,On track,65,72,71,82,0,0.0,Low
+S002-C9-07,S002,9,82.2,68.9,69,70,63,67,67.2,0.66,Average,0.58,Average,0.31,Average,0.58,Average,0,None,2,Needs some support,76,66,58,52,0,0.0,Low
+S002-C9-08,S002,9,80.2,46.0,39,68,51,48,51.5,-1.13,Weak,0.47,Average,-0.42,Average,-0.6,Average,1,English,2,Needs some support,41,61,44,38,1,40.0,Medium
+S002-C9-09,S002,9,93.6,43.7,55,75,53,63,61.5,-0.17,Average,0.87,Strong,-0.29,Average,0.33,Average,0,None,2,Needs some support,67,73,63,63,0,5.0,Low
+S002-C9-10,S002,9,87.7,60.1,51,71,62,52,59.0,-0.41,Average,0.64,Average,0.25,Average,-0.35,Average,0,None,2,Needs some support,49,71,58,56,0,3.5,Low
+S002-C10-01,S002,10,95.8,73.2,64,71,74,76,71.2,0.24,Average,0.7,Average,0.81,Average,0.94,Strong,0,None,1,On track,63,70,77,78,0,0.0,Low
+S002-C10-02,S002,10,89.4,61.3,79,81,81,85,81.5,1.05,Strong,1.23,Strong,1.18,Strong,1.44,Strong,0,None,1,On track,79,78,74,89,0,1.0,Low
+S002-C10-03,S002,10,91.7,72.1,66,83,81,82,78.0,0.35,Average,1.33,Strong,1.18,Strong,1.27,Strong,0,None,1,On track,72,78,80,90,0,0.0,Low
+S002-C10-04,S002,10,79.4,47.2,47,53,48,48,49.0,-0.68,Average,-0.26,Average,-0.54,Average,-0.62,Average,0,None,2,Needs some support,50,54,44,54,0,18.5,Low
+S002-C10-05,S002,10,83.9,74.7,77,77,79,83,79.0,0.94,Strong,1.02,Strong,1.07,Strong,1.33,Strong,0,None,1,On track,67,76,62,79,0,0.0,Low
+S002-C10-06,S002,10,98.0,47.5,58,56,71,61,61.5,-0.08,Average,-0.1,Average,0.66,Average,0.1,Average,0,None,2,Needs some support,61,53,72,75,0,5.0,Low
+S002-C10-07,S002,10,76.1,77.1,89,83,91,78,85.2,1.59,Strong,1.33,Strong,1.69,Strong,1.05,Strong,0,None,1,On track,84,83,89,85,0,0.0,Low
+S002-C10-08,S002,10,100.0,79.0,84,100,100,84,92.0,1.32,Strong,2.24,Strong,2.16,Strong,1.38,Strong,0,None,1,On track,81,100,85,89,0,0.0,Low
+S002-C10-09,S002,10,85.7,45.6,53,53,54,60,55.0,-0.35,Average,-0.26,Average,-0.22,Average,0.05,Average,0,None,2,Needs some support,49,58,53,55,0,3.5,Low
+S002-C10-10,S002,10,100.0,57.5,78,69,70,76,73.2,1.0,Strong,0.59,Average,0.61,Average,0.94,Strong,0,None,1,On track,88,69,68,79,0,0.0,Low
+S002-C11-01,S002,11,91.1,44.2,54,52,70,45,55.2,-0.35,Average,-0.44,Average,0.55,Average,-0.9,Average,0,None,2,Needs some support,53,52,63,35,1,16.5,Low
+S002-C11-02,S002,11,83.0,48.7,54,68,70,54,61.5,-0.35,Average,0.46,Average,0.55,Average,-0.39,Average,0,None,2,Needs some support,49,59,67,52,0,1.5,Low
+S002-C11-03,S002,11,91.8,44.2,59,56,42,67,56.0,-0.03,Average,-0.21,Average,-1.1,Weak,0.34,Average,1,Science,2,Needs some support,63,61,33,52,1,28.5,Low
+S002-C11-04,S002,11,83.1,84.6,96,97,99,100,98.0,2.36,Strong,2.08,Strong,2.26,Strong,2.2,Strong,0,None,1,On track,92,80,96,93,0,0.0,Low
+S002-C11-05,S002,11,81.6,49.1,58,64,79,60,65.2,-0.09,Average,0.23,Average,1.08,Strong,-0.06,Average,0,None,2,Needs some support,57,60,83,65,0,2.0,Low
+S002-C11-06,S002,11,87.9,70.5,90,66,66,79,75.2,1.97,Strong,0.35,Average,0.31,Average,1.01,Strong,0,None,1,On track,92,63,58,77,0,0.0,Low
+S002-C11-07,S002,11,100.0,73.7,74,82,86,84,81.5,0.94,Average,1.24,Strong,1.49,Strong,1.29,Strong,0,None,1,On track,77,87,85,93,0,0.0,Low
+S002-C11-08,S002,11,96.5,74.6,86,80,73,76,78.8,1.71,Strong,1.13,Strong,0.73,Average,0.84,Strong,0,None,1,On track,87,79,82,76,0,0.0,Low
+S002-C11-09,S002,11,81.5,80.3,82,85,95,87,87.2,1.46,Strong,1.41,Strong,2.02,Strong,1.46,Strong,0,None,1,On track,85,76,91,84,0,0.0,Low
+S002-C11-10,S002,11,77.1,65.2,73,85,65,69,73.0,0.88,Average,1.41,Strong,0.25,Average,0.45,Average,0,None,1,On track,72,72,60,65,0,0.0,Low
+S002-C12-01,S002,12,100.0,63.2,73,76,72,67,72.0,0.85,Average,0.97,Strong,0.84,Average,0.52,Average,0,None,1,On track,70,72,67,72,0,0.0,Low
+S002-C12-02,S002,12,96.6,56.8,71,64,79,58,68.0,0.75,Average,0.32,Average,1.22,Strong,0.07,Average,0,None,2,Needs some support,69,66,79,60,0,0.0,Low
+S002-C12-03,S002,12,91.0,61.0,58,54,74,47,58.2,0.09,Average,-0.22,Average,0.95,Average,-0.47,Average,0,None,2,Needs some support,56,55,72,56,0,12.5,Low
+S002-C12-04,S002,12,91.5,24.0,26,40,36,29,32.8,-1.55,Weak,-0.97,Average,-1.12,Weak,-1.37,Weak,3,"English, Science, Social",0,Needs intensive support,31,41,43,43,1,100.0,High
+S002-C12-05,S002,12,95.0,44.7,47,62,39,35,45.8,-0.48,Average,0.21,Average,-0.96,Weak,-1.07,Weak,2,"Science, Social",0,Needs intensive support,43,59,33,41,1,72.0,High
+S002-C12-06,S002,12,87.6,51.1,55,59,47,68,57.2,-0.07,Average,0.05,Average,-0.52,Average,0.56,Average,0,None,2,Needs some support,44,58,55,61,0,11.0,Low
+S002-C12-07,S002,12,96.9,60.8,69,70,69,71,69.8,0.65,Average,0.64,Average,0.68,Average,0.71,Average,0,None,2,Needs some support,70,76,67,75,0,0.0,Low
+S002-C12-08,S002,12,89.6,84.2,86,98,81,100,91.2,1.51,Strong,2.15,Strong,1.33,Strong,2.15,Strong,0,None,1,On track,76,88,83,100,0,0.0,Low
+S002-C12-09,S002,12,76.6,60.2,61,73,61,63,64.5,0.24,Average,0.81,Average,0.24,Average,0.32,Average,0,None,2,Needs some support,47,70,55,65,0,0.5,Low
+S002-C12-10,S002,12,84.4,20.0,26,45,45,42,39.5,-1.55,Weak,-0.7,Average,-0.63,Average,-0.72,Average,1,English,0,Needs intensive support,31,56,38,45,1,93.0,High
+S003-C6-01,S003,6,88.0,52.3,66,61,52,54,58.2,0.52,Average,0.23,Average,-0.35,Average,-0.17,Average,0,None,2,Needs some support,61,64,49,61,0,2.0,Low
+S003-C6-02,S003,6,71.7,61.6,52,50,56,72,57.5,-0.3,Average,-0.38,Average,-0.11,Average,0.94,Average,0,None,2,Needs some support,53,46,48,77,0,9.0,Low
+S003-C6-03,S003,6,83.4,73.0,75,72,65,59,67.8,1.05,Strong,0.84,Average,0.43,Average,0.14,Average,0,None,1,On track,70,74,62,43,0,0.0,Low
+S003-C6-04,S003,6,91.1,75.8,70,74,61,76,70.2,0.76,Average,0.95,Average,0.19,Average,1.19,Strong,0,None,1,On track,63,69,65,84,0,0.0,Low
+S003-C6-05,S003,6,100.0,58.8,72,59,52,54,59.2,0.87,Average,0.12,Average,-0.35,Average,-0.17,Average,0,None,2,Needs some support,65,61,61,61,0,1.0,Low
+S003-C6-06,S003,6,91.4,58.3,45,50,67,64,56.5,-0.72,Average,-0.38,Average,0.55,Average,0.45,Average,0,None,2,Needs some support,44,61,68,67,0,16.5,Low
+S003-C6-07,S003,6,88.3,67.3,66,53,59,48,56.5,0.52,Average,-0.21,Average,0.07,Average,-0.54,Average,0,None,2,Needs some support,64,65,56,46,0,4.0,Low
+S003-C6-08,S003,6,93.2,63.1,73,51,49,62,58.8,0.93,Average,-0.33,Average,-0.53,Average,0.32,Average,0,None,2,Needs some support,68,42,48,64,0,1.0,Low
+S003-C6-09,S003,6,100.0,73.0,79,70,69,77,73.8,1.29,Strong,0.73,Average,0.67,Average,1.25,Strong,0,None,1,On track,77,75,73,81,0,0.0,Low
+S003-C6-10,S003,6,75.4,78.6,75,59,68,68,67.5,1.05,Strong,0.12,Average,0.61,Average,0.69,Average,0,None,1,On track,62,69,72,57,0,1.0,Low
+S003-C7-01,S003,7,83.6,59.9,58,68,63,56,61.2,-0.12,Average,0.42,Average,0.08,Average,-0.22,Average,0,None,2,Needs some support,58,63,60,61,0,0.5,Low
+S003-C7-02,S003,7,65.2,78.5,52,63,57,56,57.0,-0.47,Average,0.13,Average,-0.24,Average,-0.22,Average,0,None,2,Needs some support,39,61,53,54,1,4.5,Low
+S003-C7-03,S003,7,84.3,79.5,72,76,73,62,70.8,0.69,Average,0.89,Strong,0.61,Average,0.1,Average,0,None,1,On track,69,83,67,70,0,1.0,Low
+S003-C7-04,S003,7,84.0,65.6,66,82,76,67,72.8,0.34,Average,1.24,Strong,0.77,Strong,0.37,Average,0,None,1,On track,69,76,75,70,0,0.0,Low
+S003-C7-05,S003,7,85.4,67.2,52,53,58,51,53.5,-0.47,Average,-0.46,Average,-0.19,Average,-0.48,Average,0,None,2,Needs some support,59,56,64,51,0,8.5,Low
+S003-C7-06,S003,7,86.4,55.7,50,57,51,57,53.8,-0.59,Average,-0.22,Average,-0.56,Average,-0.16,Average,0,None,2,Needs some support,61,57,34,58,1,5.0,Low
+S003-C7-07,S003,7,88.6,46.8,61,56,61,30,52.0,0.05,Average,-0.28,Average,-0.03,Average,-1.59,Weak,1,Social,2,Needs some support,52,45,63,37,1,25.0,Low
+S003-C7-08,S003,7,86.9,98.0,78,91,78,81,82.0,1.04,Strong,1.77,Strong,0.87,Strong,1.11,Strong,0,None,1,On track,81,90,73,80,0,0.0,Low
+S003-C7-09,S003,7,86.5,90.0,90,87,85,86,87.0,1.73,Strong,1.53,Strong,1.25,Strong,1.37,Strong,0,None,1,On track,94,83,68,87,0,0.0,Low
+S003-C7-10,S003,7,87.5,97.3,99,100,100,96,98.8,2.25,Strong,2.3,Strong,2.04,Strong,1.9,Strong,0,None,1,On track,100,100,98,88,0,0.5,Low
+S003-C8-01,S003,8,100.0,36.0,40,31,37,40,37.0,-1.03,Weak,-1.63,Weak,-1.17,Weak,-1.03,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,38,48,41,37,1,91.5,High
+S003-C8-02,S003,8,91.4,74.5,63,58,67,69,64.2,0.27,Average,0.04,Average,0.57,Average,0.72,Average,0,None,2,Needs some support,66,63,69,66,0,0.0,Low
+S003-C8-03,S003,8,92.8,45.8,34,47,35,37,38.2,-1.37,Weak,-0.64,Average,-1.28,Weak,-1.21,Weak,3,"English, Science, Social",0,Needs intensive support,48,47,30,32,1,96.5,High
+S003-C8-04,S003,8,88.1,50.8,41,65,45,44,48.8,-0.98,Average,0.47,Average,-0.71,Average,-0.79,Average,0,None,2,Needs some support,34,67,59,41,1,42.0,Medium
+S003-C8-05,S003,8,82.9,20.0,36,30,17,40,30.8,-1.26,Weak,-1.7,Weak,-2.32,Weak,-1.03,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,40,33,21,44,1,97.0,High
+S003-C8-06,S003,8,85.4,59.7,88,58,56,78,70.0,1.69,Strong,0.04,Average,-0.07,Average,1.27,Strong,0,None,2,Needs some support,91,64,54,66,0,0.0,Low
+S003-C8-07,S003,8,99.1,100.0,96,98,97,94,96.2,2.14,Strong,2.52,Strong,2.3,Strong,2.23,Strong,0,None,1,On track,90,87,100,85,0,0.0,Low
+S003-C8-08,S003,8,87.5,57.0,54,43,55,48,50.0,-0.24,Average,-0.89,Average,-0.13,Average,-0.54,Average,0,None,2,Needs some support,58,38,59,54,1,26.0,Low
+S003-C8-09,S003,8,89.4,51.8,45,26,30,46,36.8,-0.75,Average,-1.94,Weak,-1.57,Weak,-0.66,Average,2,"Maths, Science",0,Needs intensive support,40,17,38,45,1,82.5,High
+S003-C8-10,S003,8,86.2,48.6,32,41,29,35,34.2,-1.49,Weak,-1.01,Weak,-1.63,Weak,-1.33,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,30,46,39,38,1,96.0,High
+S003-C9-01,S003,9,75.3,67.4,59,64,61,70,63.5,0.06,Average,0.24,Average,0.19,Average,0.77,Average,0,None,2,Needs some support,52,62,47,60,0,0.0,Low
+S003-C9-02,S003,9,84.6,62.6,61,57,57,51,56.5,0.18,Average,-0.17,Average,-0.05,Average,-0.41,Average,0,None,2,Needs some support,62,53,67,45,0,1.5,Low
+S003-C9-03,S003,9,76.8,60.6,35,39,39,52,41.2,-1.37,Weak,-1.21,Weak,-1.15,Weak,-0.35,Average,3,"English, Maths, Science",0,Needs intensive support,35,35,37,50,1,84.0,High
+S003-C9-04,S003,9,98.0,51.5,52,44,67,41,51.0,-0.35,Average,-0.92,Average,0.56,Average,-1.03,Weak,1,Social,2,Needs some support,60,44,70,55,0,25.0,Low
+S003-C9-05,S003,9,93.1,67.1,58,58,60,58,58.5,0.0,Average,-0.11,Average,0.13,Average,0.02,Average,0,None,2,Needs some support,53,53,66,62,0,0.0,Low
+S003-C9-06,S003,9,100.0,71.1,58,68,90,63,69.8,0.0,Average,0.47,Average,1.96,Strong,0.33,Average,0,None,1,On track,59,67,85,55,0,0.5,Low
+S003-C9-07,S003,9,100.0,81.3,84,92,76,78,82.5,1.56,Strong,1.86,Strong,1.1,Strong,1.26,Strong,0,None,1,On track,89,88,78,81,0,0.0,Low
+S003-C9-08,S003,9,79.9,47.4,36,46,40,48,42.5,-1.31,Weak,-0.81,Average,-1.09,Weak,-0.6,Average,2,"English, Science",0,Needs intensive support,41,55,45,54,0,73.0,High
+S003-C9-09,S003,9,90.6,41.7,15,34,41,22,28.0,-2.57,Weak,-1.5,Weak,-1.02,Weak,-2.21,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,12,39,43,31,1,99.5,High
+S003-C9-10,S003,9,91.4,80.9,79,84,80,84,81.8,1.26,Strong,1.39,Strong,1.35,Strong,1.64,Strong,0,None,1,On track,82,77,81,75,0,0.0,Low
+S003-C10-01,S003,10,89.4,37.7,40,34,35,51,40.0,-1.06,Weak,-1.27,Weak,-1.21,Weak,-0.46,Average,3,"English, Maths, Science",0,Needs intensive support,39,33,28,52,1,93.5,High
+S003-C10-02,S003,10,92.9,69.8,69,81,72,90,78.0,0.51,Average,1.23,Strong,0.71,Average,1.72,Strong,0,None,1,On track,71,87,64,100,0,0.0,Low
+S003-C10-03,S003,10,89.5,64.0,62,59,66,68,63.8,0.13,Average,0.06,Average,0.4,Average,0.49,Average,0,None,2,Needs some support,64,62,59,62,0,0.0,Low
+S003-C10-04,S003,10,77.4,37.2,47,34,26,46,38.2,-0.68,Average,-1.27,Weak,-1.68,Weak,-0.73,Average,2,"Maths, Science",0,Needs intensive support,54,37,30,48,1,85.5,High
+S003-C10-05,S003,10,88.0,100.0,93,91,99,90,93.2,1.81,Strong,1.76,Strong,2.11,Strong,1.72,Strong,0,None,1,On track,90,92,100,83,0,0.0,Low
+S003-C10-06,S003,10,90.6,60.0,67,57,53,63,60.0,0.4,Average,-0.05,Average,-0.28,Average,0.21,Average,0,None,2,Needs some support,56,67,56,56,0,0.0,Low
+S003-C10-07,S003,10,88.2,46.5,50,45,41,48,46.0,-0.52,Average,-0.69,Average,-0.9,Average,-0.62,Average,0,None,0,Needs intensive support,43,39,42,47,1,57.0,Medium
+S003-C10-08,S003,10,92.5,80.9,65,67,73,71,69.0,0.29,Average,0.48,Average,0.76,Average,0.66,Average,0,None,1,On track,70,63,72,77,0,0.0,Low
+S003-C10-09,S003,10,88.5,60.4,51,56,52,36,48.8,-0.46,Average,-0.1,Average,-0.33,Average,-1.29,Weak,1,Social,2,Needs some support,50,46,59,46,0,36.5,Medium
+S003-C10-10,S003,10,86.8,38.7,45,53,50,39,46.8,-0.79,Average,-0.26,Average,-0.43,Average,-1.12,Weak,1,Social,0,Needs intensive support,53,56,55,36,1,38.5,Medium
+S003-C11-01,S003,11,89.2,80.3,72,75,74,78,74.8,0.81,Average,0.85,Strong,0.79,Average,0.96,Strong,0,None,1,On track,73,71,66,74,0,0.0,Low
+S003-C11-02,S003,11,88.0,65.0,67,65,45,37,53.5,0.49,Average,0.29,Average,-0.92,Average,-1.35,Weak,1,Social,2,Needs some support,62,60,53,34,1,35.5,Medium
+S003-C11-03,S003,11,77.1,72.7,59,54,73,75,65.2,-0.03,Average,-0.32,Average,0.73,Average,0.79,Strong,0,None,2,Needs some support,64,48,70,60,0,1.5,Low
+S003-C11-04,S003,11,67.3,48.1,49,34,47,46,44.0,-0.67,Average,-1.44,Weak,-0.81,Average,-0.84,Average,1,Maths,0,Needs intensive support,42,38,50,48,1,64.5,High
+S003-C11-05,S003,11,89.0,62.9,73,62,63,56,63.5,0.88,Average,0.12,Average,0.14,Average,-0.28,Average,0,None,2,Needs some support,60,61,51,66,0,0.0,Low
+S003-C11-06,S003,11,80.9,52.3,62,37,35,60,48.5,0.17,Average,-1.27,Weak,-1.51,Weak,-0.06,Average,2,"Maths, Science",2,Needs some support,73,35,27,68,1,62.5,High
+S003-C11-07,S003,11,82.6,63.1,47,66,57,48,54.5,-0.8,Average,0.35,Average,-0.22,Average,-0.73,Average,0,None,2,Needs some support,36,72,60,46,1,14.0,Low
+S003-C11-08,S003,11,83.2,96.8,89,97,100,87,93.2,1.91,Strong,2.08,Strong,2.32,Strong,1.46,Strong,0,None,1,On track,89,86,84,92,0,0.0,Low
+S003-C11-09,S003,11,91.7,44.6,59,44,40,45,47.0,-0.03,Average,-0.88,Average,-1.22,Weak,-0.9,Average,1,Science,0,Needs intensive support,65,39,45,54,1,60.5,High
+S003-C11-10,S003,11,80.2,47.0,29,26,39,44,34.5,-1.96,Weak,-1.89,Weak,-1.28,Weak,-0.96,Average,3,"English, Maths, Science",0,Needs intensive support,32,44,42,43,1,95.0,High
+S003-C12-01,S003,12,96.0,66.2,54,77,63,63,64.2,-0.12,Average,1.02,Strong,0.35,Average,0.32,Average,0,None,2,Needs some support,46,74,65,64,0,0.0,Low
+S003-C12-02,S003,12,92.4,82.7,92,69,82,75,79.5,1.82,Strong,0.59,Average,1.39,Strong,0.91,Strong,0,None,1,On track,96,65,83,72,0,0.0,Low
+S003-C12-03,S003,12,100.0,67.1,63,67,56,52,59.5,0.34,Average,0.48,Average,-0.03,Average,-0.23,Average,0,None,2,Needs some support,56,64,60,56,0,1.0,Low
+S003-C12-04,S003,12,72.3,56.7,30,37,37,41,36.2,-1.34,Weak,-1.13,Weak,-1.07,Weak,-0.77,Average,3,"English, Maths, Science",0,Needs intensive support,23,36,40,52,1,94.5,High
+S003-C12-05,S003,12,94.9,68.7,66,69,65,80,70.0,0.49,Average,0.59,Average,0.46,Average,1.16,Strong,0,None,1,On track,64,74,63,74,0,0.0,Low
+S003-C12-06,S003,12,93.9,71.3,71,63,52,65,62.8,0.75,Average,0.27,Average,-0.25,Average,0.42,Average,0,None,2,Needs some support,76,68,54,59,0,1.5,Low
+S003-C12-07,S003,12,83.8,53.7,55,45,47,59,51.5,-0.07,Average,-0.7,Average,-0.52,Average,0.12,Average,0,None,2,Needs some support,57,49,65,64,0,24.0,Low
+S003-C12-08,S003,12,100.0,67.0,44,64,61,69,59.5,-0.63,Average,0.32,Average,0.24,Average,0.61,Average,0,None,2,Needs some support,52,64,70,71,0,7.0,Low
+S003-C12-09,S003,12,86.9,62.8,63,58,60,69,62.5,0.34,Average,-0.0,Average,0.19,Average,0.61,Average,0,None,2,Needs some support,60,49,64,57,0,1.5,Low
+S003-C12-10,S003,12,91.2,77.9,83,89,75,79,81.5,1.36,Strong,1.67,Strong,1.01,Strong,1.11,Strong,0,None,1,On track,80,88,76,72,0,0.0,Low
+S004-C6-01,S004,6,93.2,47.5,51,41,44,54,47.5,-0.36,Average,-0.88,Average,-0.82,Average,-0.17,Average,0,None,0,Needs intensive support,46,53,42,51,0,41.0,Medium
+S004-C6-02,S004,6,100.0,52.0,56,61,43,40,50.0,-0.07,Average,0.23,Average,-0.88,Average,-1.03,Weak,1,Social,2,Needs some support,56,69,48,41,0,21.0,Low
+S004-C6-03,S004,6,98.1,33.8,57,32,38,49,44.0,-0.01,Average,-1.38,Weak,-1.18,Weak,-0.48,Average,2,"Maths, Science",0,Needs intensive support,62,35,40,54,1,69.5,High
+S004-C6-04,S004,6,100.0,97.3,98,94,96,85,93.2,2.41,Strong,2.05,Strong,2.28,Strong,1.74,Strong,0,None,1,On track,94,97,100,91,0,0.0,Low
+S004-C6-05,S004,6,88.0,46.7,44,53,55,48,50.0,-0.78,Average,-0.21,Average,-0.17,Average,-0.54,Average,0,None,2,Needs some support,48,51,50,49,0,45.0,Medium
+S004-C6-06,S004,6,78.9,81.0,76,67,81,81,76.2,1.11,Strong,0.56,Average,1.39,Strong,1.49,Strong,0,None,1,On track,70,65,63,79,0,0.0,Low
+S004-C6-07,S004,6,93.0,76.6,97,92,87,80,89.0,2.35,Strong,1.94,Strong,1.74,Strong,1.43,Strong,0,None,1,On track,90,82,82,75,0,0.0,Low
+S004-C6-08,S004,6,85.0,52.1,60,58,41,36,48.8,0.17,Average,0.06,Average,-1.0,Average,-1.28,Weak,1,Social,2,Needs some support,60,56,47,45,0,44.0,Medium
+S004-C6-09,S004,6,73.9,64.1,61,58,49,66,58.5,0.23,Average,0.06,Average,-0.53,Average,0.57,Average,0,None,2,Needs some support,58,57,63,72,0,2.5,Low
+S004-C6-10,S004,6,78.6,34.8,51,66,65,48,57.5,-0.36,Average,0.5,Average,0.43,Average,-0.54,Average,0,None,2,Needs some support,54,63,69,47,0,15.5,Low
+S004-C7-01,S004,7,91.8,45.0,53,57,60,50,55.0,-0.41,Average,-0.22,Average,-0.08,Average,-0.53,Average,0,None,2,Needs some support,55,62,55,48,0,20.0,Low
+S004-C7-02,S004,7,81.0,52.0,55,59,64,50,57.0,-0.3,Average,-0.11,Average,0.13,Average,-0.53,Average,0,None,2,Needs some support,65,69,61,63,0,4.0,Low
+S004-C7-03,S004,7,85.8,82.3,76,63,89,88,79.0,0.92,Strong,0.13,Average,1.46,Strong,1.48,Strong,0,None,1,On track,73,70,80,91,0,0.0,Low
+S004-C7-04,S004,7,88.5,58.9,43,51,62,45,50.2,-0.99,Average,-0.58,Average,0.02,Average,-0.8,Average,0,None,2,Needs some support,43,50,61,42,0,40.0,Medium
+S004-C7-05,S004,7,77.1,67.2,64,51,73,58,61.5,0.22,Average,-0.58,Average,0.61,Average,-0.11,Average,0,None,2,Needs some support,56,46,65,47,0,0.0,Low
+S004-C7-06,S004,7,89.6,54.7,39,48,51,53,47.8,-1.23,Weak,-0.75,Average,-0.56,Average,-0.38,Average,1,English,2,Needs some support,41,46,42,53,0,45.5,Medium
+S004-C7-07,S004,7,85.1,57.7,63,54,39,66,55.5,0.17,Average,-0.4,Average,-1.2,Weak,0.31,Average,1,Science,2,Needs some support,66,48,43,73,0,46.0,Medium
+S004-C7-08,S004,7,69.1,67.5,78,90,73,67,77.0,1.04,Strong,1.71,Strong,0.61,Average,0.37,Average,0,None,1,On track,69,84,70,61,0,1.0,Low
+S004-C7-09,S004,7,99.0,53.4,50,53,49,58,52.5,-0.59,Average,-0.46,Average,-0.67,Average,-0.11,Average,0,None,2,Needs some support,52,58,51,59,0,15.5,Low
+S004-C7-10,S004,7,90.6,82.9,82,71,91,83,81.8,1.27,Strong,0.6,Average,1.57,Strong,1.21,Strong,0,None,1,On track,85,71,90,79,0,0.0,Low
+S004-C8-01,S004,8,100.0,59.1,51,53,66,58,57.0,-0.41,Average,-0.27,Average,0.51,Average,0.06,Average,0,None,2,Needs some support,53,57,79,64,0,1.0,Low
+S004-C8-02,S004,8,95.4,34.4,53,47,34,48,45.5,-0.3,Average,-0.64,Average,-1.34,Weak,-0.54,Average,1,Science,0,Needs intensive support,52,50,38,59,1,60.0,Medium
+S004-C8-03,S004,8,94.8,63.9,54,55,69,58,59.0,-0.24,Average,-0.15,Average,0.68,Average,0.06,Average,0,None,2,Needs some support,61,56,67,52,0,1.0,Low
+S004-C8-04,S004,8,80.4,56.5,70,45,54,65,58.5,0.67,Average,-0.77,Average,-0.19,Average,0.48,Average,0,None,2,Needs some support,68,41,59,62,0,23.5,Low
+S004-C8-05,S004,8,91.6,52.4,62,57,66,68,63.2,0.21,Average,-0.02,Average,0.51,Average,0.66,Average,0,None,2,Needs some support,65,68,56,67,0,4.5,Low
+S004-C8-06,S004,8,92.6,100.0,100,96,100,96,98.0,2.37,Strong,2.39,Strong,2.47,Strong,2.35,Strong,0,None,1,On track,100,99,100,90,0,0.0,Low
+S004-C8-07,S004,8,98.5,56.5,71,73,61,45,62.5,0.72,Average,0.97,Average,0.22,Average,-0.73,Average,0,None,2,Needs some support,78,68,58,41,0,7.5,Low
+S004-C8-08,S004,8,98.4,50.7,42,46,57,55,50.0,-0.92,Average,-0.7,Average,-0.01,Average,-0.12,Average,0,None,2,Needs some support,43,44,54,62,0,30.5,Medium
+S004-C8-09,S004,8,85.1,54.1,49,69,53,66,59.2,-0.52,Average,0.72,Average,-0.24,Average,0.54,Average,0,None,2,Needs some support,47,64,54,66,0,5.5,Low
+S004-C8-10,S004,8,96.0,80.2,86,82,75,85,82.0,1.57,Strong,1.53,Strong,1.03,Strong,1.69,Strong,0,None,1,On track,86,81,85,89,0,0.0,Low
+S004-C9-01,S004,9,97.5,39.5,43,44,40,47,43.5,-0.89,Average,-0.92,Average,-1.09,Weak,-0.66,Average,1,Science,0,Needs intensive support,45,55,39,59,1,62.5,High
+S004-C9-02,S004,9,95.0,44.8,53,68,44,47,53.0,-0.29,Average,0.47,Average,-0.84,Average,-0.66,Average,0,None,2,Needs some support,43,74,52,48,0,18.0,Low
+S004-C9-03,S004,9,89.4,69.8,71,72,76,71,72.5,0.78,Average,0.7,Average,1.1,Strong,0.83,Average,0,None,1,On track,78,77,77,74,0,0.0,Low
+S004-C9-04,S004,9,93.4,67.8,55,48,65,55,55.8,-0.17,Average,-0.69,Average,0.44,Average,-0.16,Average,0,None,2,Needs some support,56,57,57,54,0,1.0,Low
+S004-C9-05,S004,9,94.8,24.2,26,30,29,33,29.5,-1.91,Weak,-1.73,Weak,-1.75,Weak,-1.53,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,35,41,39,37,1,99.0,High
+S004-C9-06,S004,9,92.1,51.9,59,58,46,62,56.2,0.06,Average,-0.11,Average,-0.72,Average,0.27,Average,0,None,2,Needs some support,53,63,43,65,0,12.0,Low
+S004-C9-07,S004,9,94.5,54.2,66,50,49,51,54.0,0.48,Average,-0.58,Average,-0.54,Average,-0.41,Average,0,None,2,Needs some support,74,55,42,52,0,4.5,Low
+S004-C9-08,S004,9,94.4,45.8,47,46,63,69,56.2,-0.65,Average,-0.81,Average,0.31,Average,0.71,Average,0,None,2,Needs some support,46,48,59,61,0,33.5,Medium
+S004-C9-09,S004,9,86.6,58.9,67,51,60,66,61.0,0.54,Average,-0.52,Average,0.13,Average,0.52,Average,0,None,2,Needs some support,65,41,55,75,0,0.5,Low
+S004-C9-10,S004,9,89.5,73.5,45,73,62,52,58.0,-0.77,Average,0.76,Average,0.25,Average,-0.35,Average,0,None,2,Needs some support,38,71,66,54,1,12.0,Low
+S004-C10-01,S004,10,99.0,66.8,75,80,78,80,78.2,0.84,Strong,1.18,Strong,1.02,Strong,1.16,Strong,0,None,1,On track,74,90,73,73,0,0.0,Low
+S004-C10-02,S004,10,88.6,61.5,69,64,88,69,72.5,0.51,Average,0.32,Average,1.54,Strong,0.55,Average,0,None,1,On track,67,60,94,55,0,0.0,Low
+S004-C10-03,S004,10,92.4,62.1,75,56,63,55,62.2,0.84,Strong,-0.1,Average,0.24,Average,-0.23,Average,0,None,2,Needs some support,73,53,65,57,0,0.5,Low
+S004-C10-04,S004,10,83.1,40.0,36,34,29,39,34.5,-1.27,Weak,-1.27,Weak,-1.52,Weak,-1.12,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,40,42,27,45,1,99.0,High
+S004-C10-05,S004,10,94.1,37.9,25,35,31,40,32.8,-1.87,Weak,-1.22,Weak,-1.42,Weak,-1.07,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,30,39,30,50,1,99.5,High
+S004-C10-06,S004,10,73.0,80.8,78,85,81,74,79.5,1.0,Strong,1.44,Strong,1.18,Strong,0.83,Average,0,None,1,On track,80,77,78,78,0,0.0,Low
+S004-C10-07,S004,10,81.6,61.7,55,70,54,49,57.0,-0.25,Average,0.64,Average,-0.22,Average,-0.57,Average,0,None,2,Needs some support,52,77,41,47,0,6.5,Low
+S004-C10-08,S004,10,73.6,27.8,39,41,24,44,37.0,-1.11,Weak,-0.9,Average,-1.78,Weak,-0.85,Average,2,"English, Science",0,Needs intensive support,33,44,12,48,1,93.0,High
+S004-C10-09,S004,10,89.2,62.4,60,50,45,35,47.5,0.02,Average,-0.42,Average,-0.69,Average,-1.35,Weak,1,Social,2,Needs some support,60,56,41,29,1,45.5,Medium
+S004-C10-10,S004,10,86.3,43.3,48,49,47,44,47.0,-0.63,Average,-0.47,Average,-0.59,Average,-0.85,Average,0,None,0,Needs intensive support,53,46,52,47,0,49.0,Medium
+S004-C11-01,S004,11,91.5,56.0,73,61,62,68,66.0,0.88,Average,0.07,Average,0.08,Average,0.39,Average,0,None,2,Needs some support,80,64,63,74,0,3.5,Low
+S004-C11-02,S004,11,95.6,65.2,58,66,54,64,60.5,-0.09,Average,0.35,Average,-0.39,Average,0.17,Average,0,None,2,Needs some support,64,69,56,62,0,1.0,Low
+S004-C11-03,S004,11,86.3,58.7,44,55,60,60,54.8,-1.0,Average,-0.27,Average,-0.04,Average,-0.06,Average,0,None,2,Needs some support,35,60,58,59,1,7.5,Low
+S004-C11-04,S004,11,98.1,39.4,52,48,39,58,49.2,-0.48,Average,-0.66,Average,-1.28,Weak,-0.17,Average,1,Science,0,Needs intensive support,57,58,30,61,1,52.0,Medium
+S004-C11-05,S004,11,95.4,48.1,36,53,40,44,43.2,-1.51,Weak,-0.38,Average,-1.22,Weak,-0.96,Average,2,"English, Science",0,Needs intensive support,48,62,41,48,0,75.5,High
+S004-C11-06,S004,11,86.9,68.8,70,49,74,50,60.8,0.68,Average,-0.6,Average,0.79,Average,-0.62,Average,0,None,2,Needs some support,69,51,62,60,0,4.0,Low
+S004-C11-07,S004,11,97.0,68.9,72,66,73,73,71.0,0.81,Average,0.35,Average,0.73,Average,0.68,Average,0,None,1,On track,69,71,78,67,0,0.0,Low
+S004-C11-08,S004,11,98.5,80.1,67,70,58,65,65.0,0.49,Average,0.57,Average,-0.16,Average,0.23,Average,0,None,1,On track,70,64,60,75,0,2.0,Low
+S004-C11-09,S004,11,100.0,67.1,69,74,76,68,71.8,0.62,Average,0.79,Average,0.9,Strong,0.39,Average,0,None,1,On track,67,78,76,62,0,0.0,Low
+S004-C11-10,S004,11,84.2,66.3,70,66,62,65,65.8,0.68,Average,0.35,Average,0.08,Average,0.23,Average,0,None,2,Needs some support,72,69,64,60,0,0.0,Low
+S004-C12-01,S004,12,85.0,57.1,71,63,56,64,63.5,0.75,Average,0.27,Average,-0.03,Average,0.37,Average,0,None,2,Needs some support,69,60,58,59,0,0.5,Low
+S004-C12-02,S004,12,97.4,57.2,54,58,42,46,50.0,-0.12,Average,-0.0,Average,-0.8,Average,-0.52,Average,0,None,2,Needs some support,64,55,47,49,0,18.5,Low
+S004-C12-03,S004,12,89.1,52.5,60,47,46,27,45.0,0.19,Average,-0.59,Average,-0.58,Average,-1.46,Weak,1,Social,0,Needs intensive support,63,48,50,28,1,51.5,Medium
+S004-C12-04,S004,12,81.7,48.1,50,48,36,57,47.8,-0.32,Average,-0.54,Average,-1.12,Weak,0.02,Average,1,Science,0,Needs intensive support,46,41,34,60,1,52.5,Medium
+S004-C12-05,S004,12,89.9,56.4,36,23,41,52,38.0,-1.04,Weak,-1.89,Weak,-0.85,Average,-0.23,Average,2,"English, Maths",0,Needs intensive support,42,29,35,54,1,89.5,High
+S004-C12-06,S004,12,78.2,92.4,85,88,100,77,87.5,1.46,Strong,1.61,Strong,2.37,Strong,1.01,Strong,0,None,1,On track,87,85,97,88,0,0.0,Low
+S004-C12-07,S004,12,91.7,70.3,64,66,60,66,64.0,0.39,Average,0.43,Average,0.19,Average,0.47,Average,0,None,2,Needs some support,61,60,69,69,0,0.0,Low
+S004-C12-08,S004,12,93.0,52.6,57,54,63,54,57.0,0.03,Average,-0.22,Average,0.35,Average,-0.13,Average,0,None,2,Needs some support,55,56,70,54,0,2.5,Low
+S004-C12-09,S004,12,98.1,28.0,28,28,44,16,29.0,-1.44,Weak,-1.62,Weak,-0.69,Average,-2.01,Weak,3,"English, Maths, Social",0,Needs intensive support,19,39,46,25,1,95.5,High
+S004-C12-10,S004,12,96.4,100.0,100,100,100,100,100.0,2.23,Strong,2.26,Strong,2.37,Strong,2.15,Strong,0,None,1,On track,100,100,100,100,0,0.0,Low
+S005-C6-01,S005,6,86.4,60.4,62,73,68,40,60.8,0.28,Average,0.89,Average,0.61,Average,-1.03,Weak,1,Social,2,Needs some support,58,78,64,41,0,23.5,Low
+S005-C6-02,S005,6,89.6,69.7,69,81,80,66,74.0,0.7,Average,1.33,Strong,1.33,Strong,0.57,Average,0,None,1,On track,56,78,81,59,0,0.5,Low
+S005-C6-03,S005,6,80.2,57.8,63,75,76,72,71.5,0.34,Average,1.0,Strong,1.09,Strong,0.94,Average,0,None,1,On track,51,70,70,65,0,0.5,Low
+S005-C6-04,S005,6,92.1,67.0,77,80,79,83,79.8,1.17,Strong,1.28,Strong,1.27,Strong,1.62,Strong,0,None,1,On track,75,76,79,83,0,0.5,Low
+S005-C6-05,S005,6,90.8,77.0,73,66,72,67,69.5,0.93,Average,0.5,Average,0.85,Average,0.63,Average,0,None,1,On track,77,69,83,72,0,0.0,Low
+S005-C6-06,S005,6,86.8,45.1,50,37,54,52,48.2,-0.42,Average,-1.1,Weak,-0.23,Average,-0.29,Average,1,Maths,0,Needs intensive support,50,53,59,56,0,60.5,High
+S005-C6-07,S005,6,93.3,53.4,37,44,44,43,42.0,-1.19,Weak,-0.71,Average,-0.82,Average,-0.85,Average,1,English,0,Needs intensive support,43,55,55,46,0,60.5,High
+S005-C6-08,S005,6,86.4,70.9,59,80,65,75,69.8,0.11,Average,1.28,Strong,0.43,Average,1.12,Strong,0,None,1,On track,52,87,60,77,0,1.0,Low
+S005-C6-09,S005,6,98.9,56.3,42,68,81,76,66.8,-0.89,Average,0.62,Average,1.39,Strong,1.19,Strong,0,None,2,Needs some support,37,77,76,74,1,22.0,Low
+S005-C6-10,S005,6,84.1,68.0,58,69,69,74,67.5,0.05,Average,0.67,Average,0.67,Average,1.06,Average,0,None,2,Needs some support,63,58,67,74,0,0.5,Low
+S005-C7-01,S005,7,91.1,98.3,100,90,98,100,97.0,2.31,Strong,1.71,Strong,1.94,Strong,2.12,Strong,0,None,1,On track,99,86,98,100,0,0.0,Low
+S005-C7-02,S005,7,89.2,47.2,63,54,54,52,55.8,0.17,Average,-0.4,Average,-0.4,Average,-0.43,Average,0,None,2,Needs some support,63,52,54,60,0,9.0,Low
+S005-C7-03,S005,7,94.6,57.1,59,62,54,58,58.2,-0.07,Average,0.07,Average,-0.4,Average,-0.11,Average,0,None,2,Needs some support,68,70,62,68,0,2.0,Low
+S005-C7-04,S005,7,95.0,54.4,57,62,54,58,57.8,-0.18,Average,0.07,Average,-0.4,Average,-0.11,Average,0,None,2,Needs some support,53,73,52,58,0,0.5,Low
+S005-C7-05,S005,7,90.1,55.0,41,60,72,68,60.2,-1.11,Weak,-0.05,Average,0.55,Average,0.42,Average,1,English,2,Needs some support,41,56,79,69,0,43.0,Medium
+S005-C7-06,S005,7,97.9,75.0,78,72,74,82,76.5,1.04,Strong,0.65,Average,0.66,Average,1.16,Strong,0,None,1,On track,84,73,80,76,0,0.0,Low
+S005-C7-07,S005,7,86.9,75.4,80,85,69,62,74.0,1.15,Strong,1.42,Strong,0.39,Average,0.1,Average,0,None,1,On track,89,86,61,68,0,0.0,Low
+S005-C7-08,S005,7,78.2,48.7,53,50,66,57,56.5,-0.41,Average,-0.63,Average,0.23,Average,-0.16,Average,0,None,2,Needs some support,52,47,67,54,0,6.0,Low
+S005-C7-09,S005,7,93.0,57.7,75,66,72,58,67.8,0.86,Strong,0.3,Average,0.55,Average,-0.11,Average,0,None,2,Needs some support,84,62,70,52,0,1.0,Low
+S005-C7-10,S005,7,94.5,39.0,32,32,48,29,35.2,-1.63,Weak,-1.69,Weak,-0.72,Average,-1.65,Weak,3,"English, Maths, Social",0,Needs intensive support,32,32,56,31,1,94.0,High
+S005-C8-01,S005,8,80.8,88.5,84,92,83,86,86.2,1.46,Strong,2.15,Strong,1.49,Strong,1.75,Strong,0,None,1,On track,82,93,76,84,0,0.0,Low
+S005-C8-02,S005,8,80.0,65.1,59,61,55,42,54.2,0.04,Average,0.22,Average,-0.13,Average,-0.91,Average,0,None,2,Needs some support,57,54,56,30,1,22.5,Low
+S005-C8-03,S005,8,100.0,61.8,59,57,60,64,60.0,0.04,Average,-0.02,Average,0.16,Average,0.42,Average,0,None,2,Needs some support,51,66,65,57,0,0.5,Low
+S005-C8-04,S005,8,96.9,46.6,50,48,45,50,48.2,-0.47,Average,-0.58,Average,-0.71,Average,-0.42,Average,0,None,0,Needs intensive support,54,51,31,59,1,19.0,Low
+S005-C8-05,S005,8,85.2,65.4,72,84,61,59,69.0,0.78,Average,1.65,Strong,0.22,Average,0.12,Average,0,None,2,Needs some support,76,86,49,60,0,0.0,Low
+S005-C8-06,S005,8,88.4,63.5,67,63,77,52,64.8,0.5,Average,0.35,Average,1.14,Strong,-0.3,Average,0,None,2,Needs some support,65,72,76,53,0,2.5,Low
+S005-C8-07,S005,8,87.2,37.7,48,63,50,52,53.2,-0.58,Average,0.35,Average,-0.42,Average,-0.3,Average,0,None,2,Needs some support,49,59,50,44,0,19.0,Low
+S005-C8-08,S005,8,83.1,38.8,41,54,48,34,44.2,-0.98,Average,-0.21,Average,-0.53,Average,-1.39,Weak,1,Social,0,Needs intensive support,51,49,55,46,0,77.0,High
+S005-C8-09,S005,8,92.0,70.5,79,58,59,56,63.0,1.18,Strong,0.04,Average,0.1,Average,-0.06,Average,0,None,2,Needs some support,70,61,61,64,0,0.0,Low
+S005-C8-10,S005,8,91.7,62.4,58,56,60,52,56.5,-0.01,Average,-0.08,Average,0.16,Average,-0.3,Average,0,None,2,Needs some support,50,51,53,58,0,2.5,Low
+S005-C9-01,S005,9,75.1,92.5,100,94,92,91,94.2,2.52,Strong,1.97,Strong,2.08,Strong,2.07,Strong,0,None,1,On track,90,84,89,80,0,0.0,Low
+S005-C9-02,S005,9,99.0,44.0,72,48,57,56,58.2,0.84,Average,-0.69,Average,-0.05,Average,-0.1,Average,0,None,2,Needs some support,65,50,54,62,0,22.0,Low
+S005-C9-03,S005,9,75.2,71.6,87,60,73,66,71.5,1.74,Strong,0.0,Average,0.92,Average,0.52,Average,0,None,1,On track,90,59,68,71,0,0.0,Low
+S005-C9-04,S005,9,88.2,62.5,73,83,67,74,74.2,0.9,Average,1.34,Strong,0.56,Average,1.02,Average,0,None,1,On track,74,73,63,71,0,0.5,Low
+S005-C9-05,S005,9,80.3,43.4,55,46,40,43,46.0,-0.17,Average,-0.81,Average,-1.09,Weak,-0.91,Average,1,Science,0,Needs intensive support,49,44,43,43,0,81.0,High
+S005-C9-06,S005,9,92.8,46.5,40,40,46,40,41.5,-1.07,Weak,-1.16,Weak,-0.72,Average,-1.09,Weak,3,"English, Maths, Social",0,Needs intensive support,39,46,40,40,1,89.5,High
+S005-C9-07,S005,9,100.0,57.5,58,56,67,60,60.2,0.0,Average,-0.23,Average,0.56,Average,0.15,Average,0,None,2,Needs some support,77,66,61,66,0,0.0,Low
+S005-C9-08,S005,9,98.6,58.8,48,38,61,47,48.5,-0.59,Average,-1.27,Weak,0.19,Average,-0.66,Average,1,Maths,2,Needs some support,47,30,49,49,1,49.0,Medium
+S005-C9-09,S005,9,72.2,77.2,64,80,74,67,71.2,0.36,Average,1.16,Strong,0.98,Average,0.58,Average,0,None,1,On track,57,83,83,63,0,0.0,Low
+S005-C9-10,S005,9,93.5,54.5,61,72,44,69,61.5,0.18,Average,0.7,Average,-0.84,Average,0.71,Average,0,None,2,Needs some support,64,77,40,61,0,11.0,Low
+S005-C10-01,S005,10,80.8,53.6,62,71,63,76,68.0,0.13,Average,0.7,Average,0.24,Average,0.94,Strong,0,None,2,Needs some support,65,62,56,64,0,0.0,Low
+S005-C10-02,S005,10,87.9,30.7,43,48,37,20,37.0,-0.9,Average,-0.53,Average,-1.11,Weak,-2.18,Weak,2,"Science, Social",0,Needs intensive support,46,40,32,30,1,91.0,High
+S005-C10-03,S005,10,91.5,65.4,75,57,71,75,69.5,0.84,Strong,-0.05,Average,0.66,Average,0.88,Strong,0,None,1,On track,69,60,67,84,0,0.0,Low
+S005-C10-04,S005,10,90.6,30.3,35,38,32,30,33.8,-1.33,Weak,-1.06,Weak,-1.37,Weak,-1.63,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,31,38,33,39,1,100.0,High
+S005-C10-05,S005,10,79.3,54.0,68,54,68,66,64.0,0.46,Average,-0.21,Average,0.5,Average,0.38,Average,0,None,2,Needs some support,69,54,70,73,0,0.0,Low
+S005-C10-06,S005,10,82.6,41.3,29,33,40,43,36.2,-1.65,Weak,-1.33,Weak,-0.95,Average,-0.9,Average,2,"English, Maths",0,Needs intensive support,31,40,42,41,1,96.5,High
+S005-C10-07,S005,10,83.2,64.8,72,66,59,52,62.2,0.67,Average,0.43,Average,0.03,Average,-0.4,Average,0,None,2,Needs some support,60,62,60,52,0,2.0,Low
+S005-C10-08,S005,10,92.2,50.1,61,55,38,58,53.0,0.08,Average,-0.16,Average,-1.05,Weak,-0.07,Average,1,Science,2,Needs some support,69,57,37,62,1,40.5,Medium
+S005-C10-09,S005,10,84.9,46.5,63,72,52,46,58.2,0.19,Average,0.75,Average,-0.33,Average,-0.73,Average,0,None,2,Needs some support,67,73,52,46,0,12.0,Low
+S005-C10-10,S005,10,95.1,66.1,85,72,74,76,76.8,1.38,Strong,0.75,Average,0.81,Average,0.94,Strong,0,None,1,On track,82,77,81,86,0,0.0,Low
+S005-C11-01,S005,11,94.7,62.6,64,60,72,75,67.8,0.29,Average,0.01,Average,0.67,Average,0.79,Strong,0,None,2,Needs some support,63,72,72,67,0,0.0,Low
+S005-C11-02,S005,11,100.0,66.8,74,60,66,75,68.8,0.94,Average,0.01,Average,0.31,Average,0.79,Strong,0,None,1,On track,76,72,69,72,0,0.0,Low
+S005-C11-03,S005,11,85.6,72.3,63,72,82,80,74.2,0.23,Average,0.68,Average,1.26,Strong,1.07,Strong,0,None,1,On track,58,72,67,76,0,0.0,Low
+S005-C11-04,S005,11,88.4,67.6,65,75,73,74,71.8,0.36,Average,0.85,Strong,0.73,Average,0.73,Average,0,None,1,On track,56,72,75,69,0,0.0,Low
+S005-C11-05,S005,11,70.8,58.7,51,47,60,51,52.2,-0.54,Average,-0.71,Average,-0.04,Average,-0.56,Average,0,None,2,Needs some support,51,60,59,55,0,16.0,Low
+S005-C11-06,S005,11,92.9,80.0,67,88,80,75,77.5,0.49,Average,1.57,Strong,1.14,Strong,0.79,Strong,0,None,1,On track,58,90,86,63,0,1.0,Low
+S005-C11-07,S005,11,73.8,64.6,56,54,52,73,58.8,-0.22,Average,-0.32,Average,-0.51,Average,0.68,Average,0,None,2,Needs some support,57,55,34,77,1,2.0,Low
+S005-C11-08,S005,11,100.0,47.3,39,44,63,52,49.5,-1.32,Weak,-0.88,Average,0.14,Average,-0.51,Average,1,English,0,Needs intensive support,34,41,65,61,1,57.0,Medium
+S005-C11-09,S005,11,89.3,54.8,63,66,51,43,55.8,0.23,Average,0.35,Average,-0.57,Average,-1.01,Weak,1,Social,2,Needs some support,62,70,51,47,0,18.5,Low
+S005-C11-10,S005,11,90.1,48.0,48,59,56,56,54.8,-0.74,Average,-0.04,Average,-0.28,Average,-0.28,Average,0,None,2,Needs some support,49,55,57,66,0,10.5,Low
+S005-C12-01,S005,12,86.2,43.1,58,59,36,43,49.0,0.09,Average,0.05,Average,-1.12,Weak,-0.67,Average,1,Science,0,Needs intensive support,69,56,34,59,1,53.5,Medium
+S005-C12-02,S005,12,82.8,37.1,28,32,32,41,33.2,-1.44,Weak,-1.4,Weak,-1.34,Weak,-0.77,Average,3,"English, Maths, Science",0,Needs intensive support,24,26,35,44,1,99.5,High
+S005-C12-03,S005,12,82.2,62.1,59,61,77,74,67.8,0.14,Average,0.16,Average,1.11,Strong,0.86,Average,0,None,2,Needs some support,50,57,79,77,0,1.0,Low
+S005-C12-04,S005,12,94.6,45.4,34,49,55,34,43.0,-1.14,Weak,-0.49,Average,-0.09,Average,-1.12,Weak,2,"English, Social",0,Needs intensive support,34,51,57,40,1,82.0,High
+S005-C12-05,S005,12,96.1,47.9,53,51,52,38,48.5,-0.17,Average,-0.38,Average,-0.25,Average,-0.92,Weak,1,Social,0,Needs intensive support,48,44,52,45,0,32.5,Medium
+S005-C12-06,S005,12,97.4,74.3,78,66,82,83,77.2,1.11,Strong,0.43,Average,1.39,Strong,1.31,Strong,0,None,1,On track,74,61,80,80,0,0.0,Low
+S005-C12-07,S005,12,97.0,57.1,66,53,61,60,60.0,0.49,Average,-0.27,Average,0.24,Average,0.17,Average,0,None,2,Needs some support,69,55,60,58,0,1.5,Low
+S005-C12-08,S005,12,85.0,62.6,72,62,53,80,66.8,0.8,Average,0.21,Average,-0.2,Average,1.16,Strong,0,None,2,Needs some support,75,54,53,82,0,2.5,Low
+S005-C12-09,S005,12,77.7,84.9,79,85,85,81,82.5,1.16,Strong,1.45,Strong,1.55,Strong,1.21,Strong,0,None,1,On track,86,73,77,75,0,0.0,Low
+S005-C12-10,S005,12,82.5,42.7,44,50,45,56,48.8,-0.63,Average,-0.43,Average,-0.63,Average,-0.03,Average,0,None,0,Needs intensive support,40,45,34,62,1,42.0,Medium
+S006-C6-01,S006,6,89.9,54.3,62,59,64,62,61.8,0.28,Average,0.12,Average,0.37,Average,0.32,Average,0,None,2,Needs some support,78,51,72,67,0,0.0,Low
+S006-C6-02,S006,6,95.0,46.8,42,49,54,47,48.0,-0.89,Average,-0.44,Average,-0.23,Average,-0.6,Average,0,None,0,Needs intensive support,57,55,45,47,0,39.0,Medium
+S006-C6-03,S006,6,100.0,71.4,72,85,89,81,81.8,0.87,Average,1.56,Strong,1.86,Strong,1.49,Strong,0,None,1,On track,71,78,87,83,0,0.0,Low
+S006-C6-04,S006,6,77.3,86.0,84,100,100,83,91.8,1.58,Strong,2.39,Strong,2.52,Strong,1.62,Strong,0,None,1,On track,66,99,86,80,0,0.0,Low
+S006-C6-05,S006,6,94.9,49.4,58,59,43,59,54.8,0.05,Average,0.12,Average,-0.88,Average,0.14,Average,0,None,2,Needs some support,59,66,44,60,0,16.0,Low
+S006-C6-06,S006,6,84.1,58.3,47,63,54,54,54.5,-0.6,Average,0.34,Average,-0.23,Average,-0.17,Average,0,None,2,Needs some support,48,55,48,61,0,20.0,Low
+S006-C6-07,S006,6,90.7,75.3,87,76,74,70,76.8,1.76,Strong,1.06,Strong,0.97,Average,0.82,Average,0,None,1,On track,71,75,73,70,0,0.0,Low
+S006-C6-08,S006,6,100.0,55.1,44,44,58,59,51.2,-0.78,Average,-0.71,Average,0.01,Average,0.14,Average,0,None,2,Needs some support,48,45,55,63,0,36.5,Medium
+S006-C6-09,S006,6,86.0,67.5,78,76,57,73,71.0,1.23,Strong,1.06,Strong,-0.05,Average,1.0,Average,0,None,1,On track,75,67,49,60,0,0.0,Low
+S006-C6-10,S006,6,89.4,65.1,57,52,62,58,57.2,-0.01,Average,-0.27,Average,0.25,Average,0.08,Average,0,None,2,Needs some support,53,51,64,63,0,2.0,Low
+S006-C7-01,S006,7,92.9,78.6,64,77,66,78,71.2,0.22,Average,0.95,Strong,0.23,Average,0.95,Strong,0,None,1,On track,68,75,74,69,0,0.0,Low
+S006-C7-02,S006,7,84.7,44.4,61,61,43,54,54.8,0.05,Average,0.01,Average,-0.99,Average,-0.32,Average,0,None,2,Needs some support,66,65,46,52,0,31.0,Medium
+S006-C7-03,S006,7,77.9,48.1,54,76,60,45,58.8,-0.36,Average,0.89,Strong,-0.08,Average,-0.8,Average,0,None,2,Needs some support,50,79,59,55,0,16.5,Low
+S006-C7-04,S006,7,96.2,64.1,46,43,73,62,56.0,-0.82,Average,-1.05,Weak,0.61,Average,0.1,Average,1,Maths,2,Needs some support,50,39,66,74,1,20.0,Low
+S006-C7-05,S006,7,92.3,31.2,54,57,61,46,54.5,-0.36,Average,-0.22,Average,-0.03,Average,-0.75,Average,0,None,2,Needs some support,51,56,61,46,0,28.5,Low
+S006-C7-06,S006,7,80.6,62.8,61,65,60,73,64.8,0.05,Average,0.24,Average,-0.08,Average,0.68,Average,0,None,2,Needs some support,55,67,61,64,0,0.5,Low
+S006-C7-07,S006,7,86.1,73.1,68,77,79,100,81.0,0.46,Average,0.95,Strong,0.93,Strong,2.12,Strong,0,None,1,On track,67,82,73,99,0,0.0,Low
+S006-C7-08,S006,7,99.7,49.3,53,64,53,53,55.8,-0.41,Average,0.19,Average,-0.46,Average,-0.38,Average,0,None,2,Needs some support,59,51,61,54,0,3.5,Low
+S006-C7-09,S006,7,97.8,65.8,61,56,65,60,60.5,0.05,Average,-0.28,Average,0.18,Average,-0.0,Average,0,None,2,Needs some support,59,66,66,64,0,1.5,Low
+S006-C7-10,S006,7,97.9,56.3,66,66,73,48,63.2,0.34,Average,0.3,Average,0.61,Average,-0.64,Average,0,None,2,Needs some support,54,66,75,43,0,5.0,Low
+S006-C8-01,S006,8,89.7,58.1,54,43,63,53,53.2,-0.24,Average,-0.89,Average,0.33,Average,-0.24,Average,0,None,2,Needs some support,58,54,60,61,0,41.0,Medium
+S006-C8-02,S006,8,83.0,41.0,44,31,56,59,47.5,-0.81,Average,-1.63,Weak,-0.07,Average,0.12,Average,1,Maths,0,Needs intensive support,35,31,52,68,1,70.0,High
+S006-C8-03,S006,8,78.9,68.6,77,81,82,71,77.8,1.06,Strong,1.46,Strong,1.43,Strong,0.84,Average,0,None,1,On track,75,73,80,60,0,0.0,Low
+S006-C8-04,S006,8,91.7,70.0,74,74,69,79,74.0,0.89,Average,1.03,Average,0.68,Average,1.33,Strong,0,None,1,On track,84,73,71,74,0,0.0,Low
+S006-C8-05,S006,8,81.1,74.6,79,70,69,75,73.2,1.18,Strong,0.78,Average,0.68,Average,1.08,Strong,0,None,1,On track,76,75,69,69,0,0.0,Low
+S006-C8-06,S006,8,89.6,68.8,87,82,75,81,81.2,1.63,Strong,1.53,Strong,1.03,Strong,1.45,Strong,0,None,1,On track,77,80,67,84,0,0.0,Low
+S006-C8-07,S006,8,91.2,55.4,50,45,46,43,46.0,-0.47,Average,-0.77,Average,-0.65,Average,-0.85,Average,0,None,0,Needs intensive support,43,33,43,34,1,37.5,Medium
+S006-C8-08,S006,8,85.0,39.8,55,62,48,67,58.0,-0.18,Average,0.29,Average,-0.53,Average,0.6,Average,0,None,2,Needs some support,62,65,48,68,0,11.0,Low
+S006-C8-09,S006,8,96.2,63.7,81,66,82,76,76.2,1.29,Strong,0.53,Average,1.43,Strong,1.14,Strong,0,None,1,On track,80,57,70,75,0,0.0,Low
+S006-C8-10,S006,8,78.6,62.9,80,68,79,64,72.8,1.23,Strong,0.66,Average,1.26,Strong,0.42,Average,0,None,1,On track,80,60,82,58,0,0.0,Low
+S006-C9-01,S006,9,78.1,76.0,85,74,84,82,81.2,1.62,Strong,0.81,Average,1.59,Strong,1.51,Strong,0,None,1,On track,87,64,82,83,0,0.0,Low
+S006-C9-02,S006,9,79.9,40.1,62,46,60,57,56.2,0.24,Average,-0.81,Average,0.13,Average,-0.04,Average,0,None,2,Needs some support,60,35,59,45,1,33.0,Medium
+S006-C9-03,S006,9,85.6,68.2,83,80,80,81,81.0,1.5,Strong,1.16,Strong,1.35,Strong,1.45,Strong,0,None,1,On track,78,70,73,71,0,0.0,Low
+S006-C9-04,S006,9,94.1,40.6,36,42,44,43,41.2,-1.31,Weak,-1.04,Weak,-0.84,Average,-0.91,Average,2,"English, Maths",0,Needs intensive support,34,39,51,42,1,76.0,High
+S006-C9-05,S006,9,99.5,71.5,61,77,83,75,74.0,0.18,Average,0.99,Strong,1.53,Strong,1.08,Strong,0,None,1,On track,44,73,80,80,0,0.0,Low
+S006-C9-06,S006,9,100.0,82.5,85,92,84,83,86.0,1.62,Strong,1.86,Strong,1.59,Strong,1.57,Strong,0,None,1,On track,75,90,95,81,0,0.0,Low
+S006-C9-07,S006,9,100.0,49.8,74,66,50,65,63.8,0.96,Average,0.35,Average,-0.48,Average,0.46,Average,0,None,2,Needs some support,74,65,55,62,0,4.5,Low
+S006-C9-08,S006,9,93.0,33.8,31,36,51,31,37.2,-1.61,Weak,-1.39,Weak,-0.42,Average,-1.65,Weak,3,"English, Maths, Social",0,Needs intensive support,34,30,43,38,1,97.5,High
+S006-C9-09,S006,9,99.9,55.9,51,59,62,45,54.2,-0.41,Average,-0.05,Average,0.25,Average,-0.78,Average,0,None,2,Needs some support,56,60,68,46,0,10.5,Low
+S006-C9-10,S006,9,97.8,62.8,64,53,76,55,62.0,0.36,Average,-0.4,Average,1.1,Strong,-0.16,Average,0,None,2,Needs some support,64,61,72,54,0,0.0,Low
+S006-C10-01,S006,10,90.7,64.3,69,65,66,62,65.5,0.51,Average,0.38,Average,0.4,Average,0.16,Average,0,None,2,Needs some support,69,71,62,61,0,0.0,Low
+S006-C10-02,S006,10,67.8,66.6,77,66,78,74,73.8,0.94,Strong,0.43,Average,1.02,Strong,0.83,Average,0,None,1,On track,77,63,71,72,0,0.5,Low
+S006-C10-03,S006,10,100.0,83.5,92,93,90,95,92.5,1.76,Strong,1.87,Strong,1.64,Strong,2.0,Strong,0,None,1,On track,85,95,88,100,0,0.0,Low
+S006-C10-04,S006,10,79.0,52.4,61,49,63,51,56.0,0.08,Average,-0.47,Average,0.24,Average,-0.46,Average,0,None,2,Needs some support,58,54,63,45,0,9.5,Low
+S006-C10-05,S006,10,94.6,63.6,74,67,69,69,69.8,0.78,Average,0.48,Average,0.55,Average,0.55,Average,0,None,1,On track,64,75,73,71,0,0.0,Low
+S006-C10-06,S006,10,86.6,39.5,52,53,54,54,53.2,-0.41,Average,-0.26,Average,-0.22,Average,-0.29,Average,0,None,2,Needs some support,58,64,57,54,0,18.5,Low
+S006-C10-07,S006,10,91.8,64.3,61,56,58,62,59.2,0.08,Average,-0.1,Average,-0.02,Average,0.16,Average,0,None,2,Needs some support,62,55,54,62,0,1.0,Low
+S006-C10-08,S006,10,81.8,46.9,58,63,66,57,61.0,-0.08,Average,0.27,Average,0.4,Average,-0.12,Average,0,None,2,Needs some support,60,60,56,66,0,6.5,Low
+S006-C10-09,S006,10,80.6,53.6,54,65,46,58,55.8,-0.3,Average,0.38,Average,-0.64,Average,-0.07,Average,0,None,2,Needs some support,63,72,41,62,0,8.0,Low
+S006-C10-10,S006,10,89.5,80.7,74,63,71,57,66.2,0.78,Average,0.27,Average,0.66,Average,-0.12,Average,0,None,1,On track,79,72,72,62,0,2.5,Low
+S006-C11-01,S006,11,81.3,64.3,61,65,61,80,66.8,0.1,Average,0.29,Average,0.02,Average,1.07,Strong,0,None,2,Needs some support,60,73,65,75,0,1.5,Low
+S006-C11-02,S006,11,100.0,60.1,66,65,65,47,60.8,0.42,Average,0.29,Average,0.25,Average,-0.79,Average,0,None,2,Needs some support,72,52,77,46,0,6.0,Low
+S006-C11-03,S006,11,94.8,55.5,52,62,76,73,65.8,-0.48,Average,0.12,Average,0.9,Strong,0.68,Average,0,None,2,Needs some support,45,62,67,75,0,7.5,Low
+S006-C11-04,S006,11,95.6,56.9,52,59,79,64,63.5,-0.48,Average,-0.04,Average,1.08,Strong,0.17,Average,0,None,2,Needs some support,57,41,78,64,0,5.0,Low
+S006-C11-05,S006,11,85.6,67.8,76,81,62,66,71.2,1.07,Strong,1.18,Strong,0.08,Average,0.28,Average,0,None,1,On track,75,83,60,62,0,0.5,Low
+S006-C11-06,S006,11,99.8,30.2,46,35,39,37,39.2,-0.87,Average,-1.38,Weak,-1.28,Weak,-1.35,Weak,3,"Maths, Science, Social",0,Needs intensive support,39,40,40,46,1,94.0,High
+S006-C11-07,S006,11,83.7,47.6,64,49,60,68,60.2,0.29,Average,-0.6,Average,-0.04,Average,0.39,Average,0,None,2,Needs some support,71,50,60,60,0,17.0,Low
+S006-C11-08,S006,11,82.3,50.9,69,61,55,63,62.0,0.62,Average,0.07,Average,-0.33,Average,0.11,Average,0,None,2,Needs some support,63,59,53,58,0,1.5,Low
+S006-C11-09,S006,11,93.5,45.9,48,44,43,55,47.5,-0.74,Average,-0.88,Average,-1.04,Weak,-0.34,Average,1,Science,0,Needs intensive support,54,54,44,62,0,57.0,Medium
+S006-C11-10,S006,11,82.9,81.2,69,81,85,78,78.2,0.62,Average,1.18,Strong,1.43,Strong,0.96,Strong,0,None,1,On track,65,76,78,76,0,0.0,Low
+S006-C12-01,S006,12,82.7,47.7,51,35,36,48,42.5,-0.27,Average,-1.24,Weak,-1.12,Weak,-0.43,Average,2,"Maths, Science",0,Needs intensive support,57,43,40,53,0,87.5,High
+S006-C12-02,S006,12,66.0,63.9,70,85,71,77,75.8,0.7,Average,1.45,Strong,0.79,Average,1.01,Strong,0,None,1,On track,74,83,73,68,0,10.0,Low
+S006-C12-03,S006,12,71.0,66.7,71,73,100,52,74.0,0.75,Average,0.81,Average,2.37,Strong,-0.23,Average,0,None,1,On track,62,71,100,55,0,2.0,Low
+S006-C12-04,S006,12,85.7,87.6,92,89,88,95,91.0,1.82,Strong,1.67,Strong,1.72,Strong,1.9,Strong,0,None,1,On track,79,89,81,88,0,0.0,Low
+S006-C12-05,S006,12,94.0,34.7,35,41,54,40,42.5,-1.09,Weak,-0.92,Average,-0.14,Average,-0.82,Average,1,English,0,Needs intensive support,38,44,49,52,1,94.5,High
+S006-C12-06,S006,12,82.2,69.9,78,87,71,78,78.5,1.11,Strong,1.56,Strong,0.79,Average,1.06,Strong,0,None,1,On track,80,77,67,81,0,0.5,Low
+S006-C12-07,S006,12,98.4,57.2,74,67,68,69,69.5,0.9,Average,0.48,Average,0.62,Average,0.61,Average,0,None,2,Needs some support,72,72,63,73,0,0.5,Low
+S006-C12-08,S006,12,87.1,65.1,83,79,78,67,76.8,1.36,Strong,1.13,Strong,1.17,Strong,0.52,Average,0,None,1,On track,77,81,82,76,0,0.5,Low
+S006-C12-09,S006,12,95.6,51.9,65,49,52,40,51.5,0.44,Average,-0.49,Average,-0.25,Average,-0.82,Average,0,None,2,Needs some support,69,50,49,46,0,24.5,Low
+S006-C12-10,S006,12,96.0,51.3,66,60,64,52,60.5,0.49,Average,0.11,Average,0.4,Average,-0.23,Average,0,None,2,Needs some support,50,66,65,51,0,3.0,Low
+S007-C6-01,S007,6,86.5,20.0,25,21,19,27,23.0,-1.9,Weak,-1.98,Weak,-2.32,Weak,-1.83,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,24,30,14,40,1,100.0,High
+S007-C6-02,S007,6,100.0,51.4,44,55,37,39,43.8,-0.78,Average,-0.1,Average,-1.24,Weak,-1.09,Weak,2,"Science, Social",0,Needs intensive support,39,50,39,46,1,55.0,Medium
+S007-C6-03,S007,6,83.8,44.5,61,49,54,46,52.5,0.23,Average,-0.44,Average,-0.23,Average,-0.66,Average,0,None,2,Needs some support,62,49,55,55,0,26.5,Low
+S007-C6-04,S007,6,90.2,21.2,32,22,49,40,35.8,-1.48,Weak,-1.93,Weak,-0.53,Average,-1.03,Weak,3,"English, Maths, Social",0,Needs intensive support,31,23,59,44,1,94.5,High
+S007-C6-05,S007,6,98.1,56.5,66,63,64,72,66.2,0.52,Average,0.34,Average,0.37,Average,0.94,Average,0,None,2,Needs some support,60,59,61,80,0,1.5,Low
+S007-C6-06,S007,6,90.3,61.1,63,70,72,62,66.8,0.34,Average,0.73,Average,0.85,Average,0.32,Average,0,None,2,Needs some support,61,71,73,58,0,0.5,Low
+S007-C6-07,S007,6,100.0,99.8,97,94,88,97,94.0,2.35,Strong,2.05,Strong,1.8,Strong,2.48,Strong,0,None,1,On track,86,87,74,88,0,1.0,Low
+S007-C6-08,S007,6,78.1,65.9,63,49,57,60,57.2,0.34,Average,-0.44,Average,-0.05,Average,0.2,Average,0,None,2,Needs some support,61,46,48,51,0,5.0,Low
+S007-C6-09,S007,6,92.5,80.3,92,76,97,84,87.2,2.05,Strong,1.06,Strong,2.34,Strong,1.68,Strong,0,None,1,On track,85,77,89,88,0,0.0,Low
+S007-C6-10,S007,6,98.6,50.9,47,54,67,46,53.5,-0.6,Average,-0.16,Average,0.55,Average,-0.66,Average,0,None,2,Needs some support,48,58,65,38,1,27.0,Low
+S007-C7-01,S007,7,84.4,20.8,27,14,14,27,20.5,-1.92,Weak,-2.75,Weak,-2.53,Weak,-1.75,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,25,20,20,20,1,99.0,High
+S007-C7-02,S007,7,84.9,33.1,35,28,32,12,26.8,-1.46,Weak,-1.92,Weak,-1.58,Weak,-2.55,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,43,44,38,9,1,99.0,High
+S007-C7-03,S007,7,91.6,44.2,51,54,47,51,50.8,-0.53,Average,-0.4,Average,-0.78,Average,-0.48,Average,0,None,2,Needs some support,52,52,39,55,1,15.5,Low
+S007-C7-04,S007,7,86.3,49.2,47,41,47,51,46.5,-0.76,Average,-1.16,Weak,-0.78,Average,-0.48,Average,1,Maths,0,Needs intensive support,51,44,51,55,0,57.0,Medium
+S007-C7-05,S007,7,97.3,27.2,33,39,18,24,28.5,-1.57,Weak,-1.28,Weak,-2.32,Weak,-1.91,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,40,35,17,25,1,98.0,High
+S007-C7-06,S007,7,81.7,66.1,49,51,57,46,50.8,-0.65,Average,-0.58,Average,-0.24,Average,-0.75,Average,0,None,2,Needs some support,44,54,67,52,0,25.5,Low
+S007-C7-07,S007,7,90.5,52.1,53,50,42,57,50.5,-0.41,Average,-0.63,Average,-1.04,Weak,-0.16,Average,1,Science,2,Needs some support,57,58,46,61,0,37.0,Medium
+S007-C7-08,S007,7,88.1,87.7,92,76,100,88,89.0,1.85,Strong,0.89,Strong,2.04,Strong,1.48,Strong,0,None,1,On track,91,82,97,93,0,0.0,Low
+S007-C7-09,S007,7,82.1,95.4,91,89,86,82,87.0,1.79,Strong,1.65,Strong,1.3,Strong,1.16,Strong,0,None,1,On track,89,81,81,86,0,0.0,Low
+S007-C7-10,S007,7,89.1,66.2,69,76,80,77,75.5,0.51,Average,0.89,Strong,0.98,Strong,0.9,Strong,0,None,1,On track,66,73,78,72,0,0.0,Low
+S007-C8-01,S007,8,72.4,79.1,64,84,77,82,76.8,0.33,Average,1.65,Strong,1.14,Strong,1.51,Strong,0,None,1,On track,59,87,73,80,0,0.0,Low
+S007-C8-02,S007,8,98.2,53.3,52,46,52,41,47.8,-0.35,Average,-0.7,Average,-0.3,Average,-0.97,Average,0,None,0,Needs intensive support,59,48,50,44,0,31.0,Medium
+S007-C8-03,S007,8,100.0,79.3,67,76,62,77,70.5,0.5,Average,1.15,Strong,0.28,Average,1.21,Strong,0,None,1,On track,81,82,68,81,0,0.0,Low
+S007-C8-04,S007,8,73.0,59.8,64,64,57,70,63.8,0.33,Average,0.41,Average,-0.01,Average,0.78,Average,0,None,2,Needs some support,56,56,56,69,0,2.5,Low
+S007-C8-05,S007,8,86.4,59.2,72,77,60,59,67.0,0.78,Average,1.22,Strong,0.16,Average,0.12,Average,0,None,2,Needs some support,74,83,64,60,0,1.5,Low
+S007-C8-06,S007,8,85.1,66.5,73,52,78,68,67.8,0.84,Average,-0.33,Average,1.2,Strong,0.66,Average,0,None,2,Needs some support,69,59,75,72,0,0.0,Low
+S007-C8-07,S007,8,87.3,53.6,40,66,54,57,54.2,-1.03,Weak,0.53,Average,-0.19,Average,-0.0,Average,1,English,2,Needs some support,47,68,58,59,0,31.5,Medium
+S007-C8-08,S007,8,79.8,77.1,72,81,57,73,70.8,0.78,Average,1.46,Strong,-0.01,Average,0.96,Average,0,None,1,On track,72,73,51,76,0,1.5,Low
+S007-C8-09,S007,8,91.5,53.8,45,45,50,44,46.0,-0.75,Average,-0.77,Average,-0.42,Average,-0.79,Average,0,None,0,Needs intensive support,53,46,73,47,0,58.5,Medium
+S007-C8-10,S007,8,85.0,55.2,70,64,60,63,64.2,0.67,Average,0.41,Average,0.16,Average,0.36,Average,0,None,2,Needs some support,52,64,55,62,0,0.5,Low
+S007-C9-01,S007,9,98.6,63.5,57,65,58,56,59.0,-0.06,Average,0.29,Average,0.01,Average,-0.1,Average,0,None,2,Needs some support,55,68,57,64,0,0.5,Low
+S007-C9-02,S007,9,74.0,40.3,44,42,39,35,40.0,-0.83,Average,-1.04,Weak,-1.15,Weak,-1.4,Weak,3,"Maths, Science, Social",0,Needs intensive support,38,41,44,42,1,91.5,High
+S007-C9-03,S007,9,77.5,73.8,61,63,57,65,61.5,0.18,Average,0.18,Average,-0.05,Average,0.46,Average,0,None,2,Needs some support,59,60,63,71,0,2.5,Low
+S007-C9-04,S007,9,92.1,80.5,79,66,72,68,71.2,1.26,Strong,0.35,Average,0.86,Average,0.64,Average,0,None,1,On track,73,67,66,73,0,0.0,Low
+S007-C9-05,S007,9,78.4,85.3,87,95,77,86,86.2,1.74,Strong,2.03,Strong,1.17,Strong,1.76,Strong,0,None,1,On track,79,98,63,82,0,0.0,Low
+S007-C9-06,S007,9,83.1,85.0,79,100,79,91,87.2,1.26,Strong,2.32,Strong,1.29,Strong,2.07,Strong,0,None,1,On track,80,83,68,89,0,0.0,Low
+S007-C9-07,S007,9,89.5,69.1,68,77,59,61,66.2,0.6,Average,0.99,Strong,0.07,Average,0.21,Average,0,None,2,Needs some support,79,67,53,63,0,2.0,Low
+S007-C9-08,S007,9,94.6,53.8,52,58,39,62,52.8,-0.35,Average,-0.11,Average,-1.15,Weak,0.27,Average,1,Science,2,Needs some support,37,50,37,53,1,29.0,Low
+S007-C9-09,S007,9,93.9,93.5,70,79,77,89,78.8,0.72,Average,1.1,Strong,1.17,Strong,1.95,Strong,0,None,1,On track,68,74,75,81,0,0.0,Low
+S007-C9-10,S007,9,94.1,52.5,50,46,36,37,42.2,-0.47,Average,-0.81,Average,-1.33,Weak,-1.28,Weak,2,"Science, Social",0,Needs intensive support,54,38,45,50,1,73.5,High
+S007-C10-01,S007,10,94.2,78.5,75,62,70,94,75.2,0.84,Strong,0.22,Average,0.61,Average,1.94,Strong,0,None,1,On track,74,66,76,92,0,1.0,Low
+S007-C10-02,S007,10,89.5,46.8,31,42,48,41,40.5,-1.55,Weak,-0.85,Average,-0.54,Average,-1.01,Weak,2,"English, Social",0,Needs intensive support,32,45,45,27,1,94.0,High
+S007-C10-03,S007,10,74.7,100.0,100,100,100,97,99.2,2.19,Strong,2.24,Strong,2.16,Strong,2.11,Strong,0,None,1,On track,86,92,97,92,0,0.0,Low
+S007-C10-04,S007,10,73.1,67.1,66,68,72,66,68.0,0.35,Average,0.54,Average,0.71,Average,0.38,Average,0,None,2,Needs some support,58,61,73,65,0,1.0,Low
+S007-C10-05,S007,10,81.0,57.9,72,74,60,63,67.2,0.67,Average,0.86,Average,0.09,Average,0.21,Average,0,None,2,Needs some support,74,72,67,55,0,0.5,Low
+S007-C10-06,S007,10,97.4,50.4,62,39,43,48,48.0,0.13,Average,-1.01,Weak,-0.8,Average,-0.62,Average,1,Maths,0,Needs intensive support,70,44,45,65,0,74.5,High
+S007-C10-07,S007,10,86.3,64.5,77,75,62,80,73.5,0.94,Strong,0.91,Strong,0.19,Average,1.16,Strong,0,None,1,On track,76,75,57,85,0,2.0,Low
+S007-C10-08,S007,10,89.1,78.0,82,71,78,60,72.8,1.21,Strong,0.7,Average,1.02,Strong,0.05,Average,0,None,1,On track,75,66,80,66,0,0.5,Low
+S007-C10-09,S007,10,75.5,82.2,70,71,68,71,70.0,0.56,Average,0.7,Average,0.5,Average,0.66,Average,0,None,1,On track,68,72,74,68,0,0.0,Low
+S007-C10-10,S007,10,68.1,88.9,84,72,73,95,81.0,1.32,Strong,0.75,Average,0.76,Average,2.0,Strong,0,None,1,On track,77,59,65,92,0,0.5,Low
+S007-C11-01,S007,11,78.8,52.6,48,38,47,38,42.8,-0.74,Average,-1.22,Weak,-0.81,Average,-1.29,Weak,2,"Maths, Social",0,Needs intensive support,51,46,58,45,0,85.5,High
+S007-C11-02,S007,11,96.5,79.7,79,91,76,67,78.2,1.26,Strong,1.74,Strong,0.9,Strong,0.34,Average,0,None,1,On track,79,71,86,71,0,0.0,Low
+S007-C11-03,S007,11,100.0,60.7,64,70,66,59,64.8,0.29,Average,0.57,Average,0.31,Average,-0.11,Average,0,None,2,Needs some support,62,67,65,58,0,0.0,Low
+S007-C11-04,S007,11,100.0,78.0,70,64,79,86,74.8,0.68,Average,0.23,Average,1.08,Strong,1.41,Strong,0,None,1,On track,72,58,69,87,0,0.0,Low
+S007-C11-05,S007,11,88.0,63.6,58,74,74,55,65.2,-0.09,Average,0.79,Average,0.79,Average,-0.34,Average,0,None,2,Needs some support,51,77,69,57,0,1.0,Low
+S007-C11-06,S007,11,92.6,92.2,73,73,83,88,79.2,0.88,Average,0.74,Average,1.32,Strong,1.52,Strong,0,None,1,On track,77,63,79,89,0,0.0,Low
+S007-C11-07,S007,11,93.6,85.5,79,97,79,100,88.8,1.26,Strong,2.08,Strong,1.08,Strong,2.2,Strong,0,None,1,On track,85,100,81,92,0,0.0,Low
+S007-C11-08,S007,11,100.0,59.8,55,52,53,59,54.8,-0.29,Average,-0.44,Average,-0.45,Average,-0.11,Average,0,None,2,Needs some support,50,45,45,63,0,2.0,Low
+S007-C11-09,S007,11,83.2,60.2,62,44,65,53,56.0,0.17,Average,-0.88,Average,0.25,Average,-0.45,Average,0,None,2,Needs some support,64,57,78,54,0,18.5,Low
+S007-C11-10,S007,11,74.5,31.9,32,37,58,38,41.2,-1.77,Weak,-1.27,Weak,-0.16,Average,-1.29,Weak,3,"English, Maths, Social",0,Needs intensive support,27,40,70,41,1,93.5,High
+S007-C12-01,S007,12,91.2,63.5,62,53,74,77,66.5,0.29,Average,-0.27,Average,0.95,Average,1.01,Strong,0,None,2,Needs some support,69,54,68,78,0,2.5,Low
+S007-C12-02,S007,12,79.8,33.1,27,39,29,52,36.8,-1.49,Weak,-1.03,Weak,-1.51,Weak,-0.23,Average,3,"English, Maths, Science",0,Needs intensive support,34,42,19,44,1,93.5,High
+S007-C12-03,S007,12,89.7,84.0,87,73,71,78,77.2,1.56,Strong,0.81,Average,0.79,Average,1.06,Strong,0,None,1,On track,83,85,69,82,0,0.5,Low
+S007-C12-04,S007,12,89.1,63.5,66,72,72,89,74.8,0.49,Average,0.75,Average,0.84,Average,1.6,Strong,0,None,1,On track,72,76,73,92,0,0.0,Low
+S007-C12-05,S007,12,92.0,48.1,57,36,43,44,45.0,0.03,Average,-1.19,Weak,-0.74,Average,-0.62,Average,1,Maths,0,Needs intensive support,55,26,53,39,1,60.5,High
+S007-C12-06,S007,12,87.2,65.5,43,68,64,61,59.0,-0.68,Average,0.54,Average,0.4,Average,0.22,Average,0,None,2,Needs some support,41,74,67,61,0,37.0,Medium
+S007-C12-07,S007,12,82.6,88.3,100,84,86,89,89.8,2.23,Strong,1.4,Strong,1.61,Strong,1.6,Strong,0,None,1,On track,92,82,81,81,0,0.5,Low
+S007-C12-08,S007,12,89.7,64.9,68,68,72,76,71.0,0.6,Average,0.54,Average,0.84,Average,0.96,Strong,0,None,1,On track,67,58,59,73,0,0.5,Low
+S007-C12-09,S007,12,73.8,72.7,68,77,70,75,72.5,0.6,Average,1.02,Strong,0.73,Average,0.91,Strong,0,None,1,On track,63,78,70,78,0,6.5,Low
+S007-C12-10,S007,12,98.8,70.1,66,85,74,72,74.2,0.49,Average,1.45,Strong,0.95,Average,0.76,Average,0,None,1,On track,68,77,79,76,0,0.0,Low
+S008-C6-01,S008,6,90.3,41.5,29,35,47,39,37.5,-1.66,Weak,-1.21,Weak,-0.65,Average,-1.09,Weak,3,"English, Maths, Social",0,Needs intensive support,29,39,46,54,1,92.0,High
+S008-C6-02,S008,6,87.1,38.1,33,33,32,26,31.0,-1.42,Weak,-1.32,Weak,-1.54,Weak,-1.89,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,40,37,36,31,1,100.0,High
+S008-C6-03,S008,6,83.5,40.5,68,60,48,51,56.8,0.64,Average,0.17,Average,-0.59,Average,-0.35,Average,0,None,2,Needs some support,73,55,49,45,0,19.5,Low
+S008-C6-04,S008,6,100.0,53.8,37,44,37,25,35.8,-1.19,Weak,-0.71,Average,-1.24,Weak,-1.96,Weak,3,"English, Science, Social",0,Needs intensive support,38,51,39,32,1,72.0,High
+S008-C6-05,S008,6,89.1,51.1,45,46,46,47,46.0,-0.72,Average,-0.6,Average,-0.7,Average,-0.6,Average,0,None,0,Needs intensive support,38,41,40,35,1,37.0,Medium
+S008-C6-06,S008,6,82.3,36.4,45,20,46,48,39.8,-0.72,Average,-2.04,Weak,-0.7,Average,-0.54,Average,1,Maths,0,Needs intensive support,50,24,48,60,1,78.5,High
+S008-C6-07,S008,6,67.2,53.3,48,41,44,61,48.5,-0.54,Average,-0.88,Average,-0.82,Average,0.26,Average,0,None,2,Needs some support,53,36,34,60,1,37.5,Medium
+S008-C6-08,S008,6,80.6,60.4,60,61,67,59,61.8,0.17,Average,0.23,Average,0.55,Average,0.14,Average,0,None,2,Needs some support,58,59,73,61,0,0.0,Low
+S008-C6-09,S008,6,100.0,72.6,60,59,58,70,61.8,0.17,Average,0.12,Average,0.01,Average,0.82,Average,0,None,2,Needs some support,54,72,54,72,0,1.0,Low
+S008-C6-10,S008,6,88.4,50.9,40,33,46,43,40.5,-1.01,Weak,-1.32,Weak,-0.7,Average,-0.85,Average,2,"English, Maths",0,Needs intensive support,44,36,50,40,1,78.5,High
+S008-C7-01,S008,7,83.7,74.8,54,74,47,64,59.8,-0.36,Average,0.77,Average,-0.78,Average,0.21,Average,0,None,2,Needs some support,63,65,43,63,0,5.5,Low
+S008-C7-02,S008,7,81.6,69.7,70,43,64,40,54.2,0.57,Average,-1.05,Weak,0.13,Average,-1.06,Weak,2,"Maths, Social",2,Needs some support,57,43,64,37,1,44.0,Medium
+S008-C7-03,S008,7,100.0,42.0,29,37,55,24,36.2,-1.81,Weak,-1.4,Weak,-0.35,Average,-1.91,Weak,3,"English, Maths, Social",0,Needs intensive support,37,36,56,27,1,94.0,High
+S008-C7-04,S008,7,100.0,55.4,37,27,54,50,42.0,-1.34,Weak,-1.98,Weak,-0.4,Average,-0.53,Average,2,"English, Maths",0,Needs intensive support,39,32,59,55,1,81.5,High
+S008-C7-05,S008,7,81.5,69.9,62,66,75,70,68.2,0.11,Average,0.3,Average,0.71,Strong,0.53,Average,0,None,1,On track,56,65,67,61,0,0.0,Low
+S008-C7-06,S008,7,99.0,45.7,42,49,28,37,39.0,-1.05,Weak,-0.69,Average,-1.79,Weak,-1.22,Weak,3,"English, Science, Social",0,Needs intensive support,48,52,23,51,1,89.5,High
+S008-C7-07,S008,7,75.5,54.1,65,30,45,50,47.5,0.28,Average,-1.81,Weak,-0.88,Average,-0.53,Average,1,Maths,2,Needs some support,55,32,42,43,1,54.5,Medium
+S008-C7-08,S008,7,87.1,54.1,57,49,37,65,52.0,-0.18,Average,-0.69,Average,-1.31,Weak,0.26,Average,1,Science,2,Needs some support,59,47,37,70,1,39.0,Medium
+S008-C7-09,S008,7,88.4,75.8,76,69,75,65,71.2,0.92,Strong,0.48,Average,0.71,Strong,0.26,Average,0,None,1,On track,82,71,64,61,0,0.0,Low
+S008-C7-10,S008,7,90.6,80.8,63,75,66,68,68.0,0.17,Average,0.83,Strong,0.23,Average,0.42,Average,0,None,1,On track,64,80,61,61,0,0.0,Low
+S008-C8-01,S008,8,79.5,60.5,52,56,31,41,45.0,-0.35,Average,-0.08,Average,-1.51,Weak,-0.97,Average,1,Science,0,Needs intensive support,46,51,22,44,1,54.0,Medium
+S008-C8-02,S008,8,82.4,35.1,44,31,42,39,39.0,-0.81,Average,-1.63,Weak,-0.88,Average,-1.09,Weak,2,"Maths, Social",0,Needs intensive support,34,33,43,42,1,94.0,High
+S008-C8-03,S008,8,76.2,100.0,97,80,96,90,90.8,2.2,Strong,1.4,Strong,2.24,Strong,1.99,Strong,0,None,1,On track,84,77,88,84,0,0.0,Low
+S008-C8-04,S008,8,81.4,52.3,66,50,56,43,53.8,0.44,Average,-0.46,Average,-0.07,Average,-0.85,Average,0,None,2,Needs some support,53,58,55,44,0,22.5,Low
+S008-C8-05,S008,8,96.7,40.2,38,42,42,40,40.5,-1.15,Weak,-0.95,Average,-0.88,Average,-1.03,Weak,2,"English, Social",0,Needs intensive support,51,52,60,40,0,95.0,High
+S008-C8-06,S008,8,93.5,70.3,51,57,69,66,60.8,-0.41,Average,-0.02,Average,0.68,Average,0.54,Average,0,None,2,Needs some support,51,54,69,69,0,1.5,Low
+S008-C8-07,S008,8,90.8,27.5,33,48,25,26,33.0,-1.43,Weak,-0.58,Average,-1.86,Weak,-1.87,Weak,3,"English, Science, Social",0,Needs intensive support,30,50,31,27,1,94.0,High
+S008-C8-08,S008,8,75.7,67.7,69,60,63,71,65.8,0.61,Average,0.16,Average,0.33,Average,0.84,Average,0,None,2,Needs some support,58,49,64,68,0,0.0,Low
+S008-C8-09,S008,8,90.1,64.3,62,58,63,55,59.5,0.21,Average,0.04,Average,0.33,Average,-0.12,Average,0,None,2,Needs some support,56,53,62,63,0,0.5,Low
+S008-C8-10,S008,8,80.1,57.1,44,41,52,52,47.2,-0.81,Average,-1.01,Weak,-0.3,Average,-0.3,Average,1,Maths,2,Needs some support,42,42,48,44,0,51.5,Medium
+S008-C9-01,S008,9,84.6,74.2,69,68,58,66,65.2,0.66,Average,0.47,Average,0.01,Average,0.52,Average,0,None,2,Needs some support,60,70,63,62,0,0.0,Low
+S008-C9-02,S008,9,88.1,52.9,60,76,56,53,61.2,0.12,Average,0.93,Strong,-0.11,Average,-0.29,Average,0,None,2,Needs some support,70,80,62,50,0,1.0,Low
+S008-C9-03,S008,9,90.5,72.8,49,65,63,58,58.8,-0.53,Average,0.29,Average,0.31,Average,0.02,Average,0,None,2,Needs some support,46,63,45,54,0,18.0,Low
+S008-C9-04,S008,9,96.2,70.3,49,65,58,59,57.8,-0.53,Average,0.29,Average,0.01,Average,0.09,Average,0,None,2,Needs some support,47,58,58,52,0,15.5,Low
+S008-C9-05,S008,9,86.8,68.2,54,45,51,56,51.5,-0.23,Average,-0.87,Average,-0.42,Average,-0.1,Average,0,None,2,Needs some support,56,49,49,55,0,20.5,Low
+S008-C9-06,S008,9,92.8,73.3,91,74,82,70,79.2,1.98,Strong,0.81,Average,1.47,Strong,0.77,Average,0,None,1,On track,97,72,77,71,0,0.0,Low
+S008-C9-07,S008,9,94.7,75.3,70,68,59,57,63.5,0.72,Average,0.47,Average,0.07,Average,-0.04,Average,0,None,2,Needs some support,78,71,67,58,0,0.5,Low
+S008-C9-08,S008,9,95.5,63.7,67,70,51,51,59.8,0.54,Average,0.58,Average,-0.42,Average,-0.41,Average,0,None,2,Needs some support,64,71,49,44,0,3.5,Low
+S008-C9-09,S008,9,90.5,54.7,62,54,51,40,51.8,0.24,Average,-0.34,Average,-0.42,Average,-1.09,Weak,1,Social,2,Needs some support,64,59,57,47,0,24.5,Low
+S008-C9-10,S008,9,90.2,27.5,41,32,59,52,46.0,-1.01,Weak,-1.62,Weak,0.07,Average,-0.35,Average,2,"English, Maths",0,Needs intensive support,44,39,56,57,1,82.0,High
+S008-C10-01,S008,10,87.1,63.3,64,37,36,45,45.5,0.24,Average,-1.11,Weak,-1.16,Weak,-0.79,Average,2,"Maths, Science",2,Needs some support,67,44,35,47,1,76.0,High
+S008-C10-02,S008,10,92.0,75.2,52,43,69,55,54.8,-0.41,Average,-0.79,Average,0.55,Average,-0.23,Average,0,None,2,Needs some support,55,43,73,50,0,27.0,Low
+S008-C10-03,S008,10,89.2,34.5,22,19,22,20,20.8,-2.03,Weak,-2.07,Weak,-1.88,Weak,-2.18,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,20,29,21,19,1,100.0,High
+S008-C10-04,S008,10,82.3,42.9,35,34,25,31,31.2,-1.33,Weak,-1.27,Weak,-1.73,Weak,-1.57,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,29,33,26,45,1,100.0,High
+S008-C10-05,S008,10,89.4,35.9,9,16,23,30,19.5,-2.74,Weak,-2.23,Weak,-1.83,Weak,-1.63,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,15,21,20,44,1,100.0,High
+S008-C10-06,S008,10,82.5,41.5,47,63,49,46,51.2,-0.68,Average,0.27,Average,-0.48,Average,-0.73,Average,0,None,2,Needs some support,40,73,43,49,0,36.0,Medium
+S008-C10-07,S008,10,87.9,60.0,65,60,58,50,58.2,0.29,Average,0.11,Average,-0.02,Average,-0.51,Average,0,None,2,Needs some support,73,62,62,46,0,3.0,Low
+S008-C10-08,S008,10,93.3,76.2,81,69,66,67,70.8,1.16,Strong,0.59,Average,0.4,Average,0.44,Average,0,None,1,On track,80,62,69,75,0,0.0,Low
+S008-C10-09,S008,10,91.8,22.4,17,10,26,25,19.5,-2.3,Weak,-2.55,Weak,-1.68,Weak,-1.9,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,16,25,23,30,1,99.5,High
+S008-C10-10,S008,10,79.7,48.1,52,44,51,41,47.0,-0.41,Average,-0.74,Average,-0.38,Average,-1.01,Weak,1,Social,0,Needs intensive support,50,50,43,52,0,43.5,Medium
+S008-C11-01,S008,11,98.4,66.2,53,58,54,56,55.2,-0.41,Average,-0.1,Average,-0.39,Average,-0.28,Average,0,None,2,Needs some support,52,67,71,55,0,2.0,Low
+S008-C11-02,S008,11,86.7,56.4,40,40,37,35,38.0,-1.25,Weak,-1.1,Weak,-1.4,Weak,-1.46,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,41,43,35,40,1,93.5,High
+S008-C11-03,S008,11,89.3,36.4,39,35,19,40,33.2,-1.32,Weak,-1.38,Weak,-2.46,Weak,-1.18,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,47,40,18,41,1,99.5,High
+S008-C11-04,S008,11,80.0,74.7,58,66,55,51,57.5,-0.09,Average,0.35,Average,-0.33,Average,-0.56,Average,0,None,2,Needs some support,48,63,57,55,0,12.0,Low
+S008-C11-05,S008,11,87.0,51.9,38,44,50,47,44.8,-1.38,Weak,-0.88,Average,-0.63,Average,-0.79,Average,1,English,0,Needs intensive support,29,41,46,44,1,63.0,High
+S008-C11-06,S008,11,82.6,69.8,46,60,65,60,57.8,-0.87,Average,0.01,Average,0.25,Average,-0.06,Average,0,None,2,Needs some support,49,68,61,65,0,44.0,Medium
+S008-C11-07,S008,11,83.8,63.2,39,42,47,60,47.0,-1.32,Weak,-0.99,Average,-0.81,Average,-0.06,Average,1,English,2,Needs some support,39,41,53,57,1,47.5,Medium
+S008-C11-08,S008,11,80.3,63.8,54,53,67,48,55.5,-0.35,Average,-0.38,Average,0.37,Average,-0.73,Average,0,None,2,Needs some support,54,50,71,43,0,9.0,Low
+S008-C11-09,S008,11,94.6,90.7,74,76,66,73,72.2,0.94,Average,0.9,Strong,0.31,Average,0.68,Average,0,None,1,On track,76,73,65,76,0,0.0,Low
+S008-C11-10,S008,11,98.4,60.8,58,59,49,65,57.8,-0.09,Average,-0.04,Average,-0.69,Average,0.23,Average,0,None,2,Needs some support,59,72,59,67,0,3.0,Low
+S008-C12-01,S008,12,86.4,46.4,36,42,41,39,39.5,-1.04,Weak,-0.86,Average,-0.85,Average,-0.87,Weak,2,"English, Social",0,Needs intensive support,43,49,41,28,1,93.0,High
+S008-C12-02,S008,12,90.6,59.0,43,50,31,43,41.8,-0.68,Average,-0.43,Average,-1.4,Weak,-0.67,Average,1,Science,0,Needs intensive support,40,49,32,45,1,77.0,High
+S008-C12-03,S008,12,76.2,39.1,46,44,39,24,38.2,-0.53,Average,-0.76,Average,-0.96,Weak,-1.61,Weak,2,"Science, Social",0,Needs intensive support,46,44,39,26,1,93.5,High
+S008-C12-04,S008,12,90.4,58.1,35,43,50,54,45.5,-1.09,Weak,-0.81,Average,-0.36,Average,-0.13,Average,1,English,0,Needs intensive support,33,48,49,56,1,56.5,Medium
+S008-C12-05,S008,12,86.7,27.9,27,26,25,14,23.0,-1.49,Weak,-1.72,Weak,-1.73,Weak,-2.11,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,23,34,31,31,1,100.0,High
+S008-C12-06,S008,12,84.9,37.4,36,30,28,28,30.5,-1.04,Weak,-1.51,Weak,-1.56,Weak,-1.42,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,42,23,32,27,1,100.0,High
+S008-C12-07,S008,12,87.0,61.7,37,58,42,55,48.0,-0.99,Weak,-0.0,Average,-0.8,Average,-0.08,Average,1,English,2,Needs some support,43,63,39,55,1,33.0,Medium
+S008-C12-08,S008,12,92.7,34.5,21,34,40,25,30.0,-1.8,Weak,-1.29,Weak,-0.91,Average,-1.56,Weak,3,"English, Maths, Social",0,Needs intensive support,14,36,43,19,1,99.5,High
+S008-C12-09,S008,12,87.3,37.0,35,38,30,45,37.0,-1.09,Weak,-1.08,Weak,-1.45,Weak,-0.57,Average,3,"English, Maths, Science",0,Needs intensive support,31,36,29,38,1,97.0,High
+S008-C12-10,S008,12,85.2,53.7,54,54,64,60,58.0,-0.12,Average,-0.22,Average,0.4,Average,0.17,Average,0,None,2,Needs some support,56,52,59,56,0,4.0,Low
+S009-C6-01,S009,6,93.4,71.8,63,62,57,59,60.2,0.34,Average,0.28,Average,-0.05,Average,0.14,Average,0,None,2,Needs some support,70,67,57,59,0,0.0,Low
+S009-C6-02,S009,6,77.3,76.6,66,75,82,68,72.8,0.52,Average,1.0,Strong,1.45,Strong,0.69,Average,0,None,1,On track,60,82,84,64,0,0.0,Low
+S009-C6-03,S009,6,84.7,29.6,22,21,16,8,16.8,-2.07,Weak,-1.98,Weak,-2.5,Weak,-3.0,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,24,25,21,17,1,100.0,High
+S009-C6-04,S009,6,81.3,80.8,66,57,56,61,60.0,0.52,Average,0.01,Average,-0.11,Average,0.26,Average,0,None,2,Needs some support,56,60,63,64,0,3.5,Low
+S009-C6-05,S009,6,96.9,57.5,44,65,50,56,53.8,-0.78,Average,0.45,Average,-0.47,Average,-0.05,Average,0,None,2,Needs some support,62,61,61,64,0,27.5,Low
+S009-C6-06,S009,6,90.9,52.7,29,61,55,41,46.5,-1.66,Weak,0.23,Average,-0.17,Average,-0.97,Average,1,English,0,Needs intensive support,35,64,55,42,1,64.0,High
+S009-C6-07,S009,6,90.8,44.0,40,39,41,49,42.2,-1.01,Weak,-0.99,Weak,-1.0,Average,-0.48,Average,2,"English, Maths",0,Needs intensive support,48,46,39,53,1,80.5,High
+S009-C6-08,S009,6,79.6,76.7,75,87,53,64,69.8,1.05,Strong,1.67,Strong,-0.29,Average,0.45,Average,0,None,1,On track,76,74,47,58,0,4.5,Low
+S009-C6-09,S009,6,92.4,25.5,38,16,9,19,20.5,-1.13,Weak,-2.26,Weak,-2.91,Weak,-2.33,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,46,18,16,26,1,98.0,High
+S009-C6-10,S009,6,94.0,20.0,24,7,21,37,22.2,-1.95,Weak,-2.76,Weak,-2.2,Weak,-1.22,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,32,18,31,43,1,99.5,High
+S009-C7-01,S009,7,81.1,65.2,59,63,48,64,58.5,-0.07,Average,0.13,Average,-0.72,Average,0.21,Average,0,None,2,Needs some support,56,51,57,60,0,4.5,Low
+S009-C7-02,S009,7,83.0,20.0,18,13,2,5,9.5,-2.44,Weak,-2.8,Weak,-3.17,Weak,-2.92,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,26,15,0,0,1,99.5,High
+S009-C7-03,S009,7,87.4,59.5,53,62,52,56,55.8,-0.41,Average,0.07,Average,-0.51,Average,-0.22,Average,0,None,2,Needs some support,54,65,58,52,0,9.0,Low
+S009-C7-04,S009,7,76.6,81.4,92,81,84,80,84.2,1.85,Strong,1.18,Strong,1.19,Strong,1.06,Strong,0,None,1,On track,95,67,86,92,0,0.0,Low
+S009-C7-05,S009,7,100.0,60.9,57,38,40,27,40.5,-0.18,Average,-1.34,Weak,-1.15,Weak,-1.75,Weak,3,"Maths, Science, Social",0,Needs intensive support,55,40,58,32,1,75.5,High
+S009-C7-06,S009,7,95.7,51.0,40,41,36,43,40.0,-1.17,Weak,-1.16,Weak,-1.36,Weak,-0.9,Average,3,"English, Maths, Science",0,Needs intensive support,40,44,40,42,0,91.5,High
+S009-C7-07,S009,7,75.1,73.3,73,62,71,88,73.5,0.75,Average,0.07,Average,0.5,Average,1.48,Strong,0,None,1,On track,74,65,67,84,0,0.0,Low
+S009-C7-08,S009,7,91.1,54.0,53,56,54,44,51.8,-0.41,Average,-0.28,Average,-0.4,Average,-0.85,Average,0,None,2,Needs some support,62,49,45,53,0,13.0,Low
+S009-C7-09,S009,7,99.7,65.8,64,55,63,59,60.2,0.22,Average,-0.34,Average,0.08,Average,-0.06,Average,0,None,2,Needs some support,66,64,59,63,0,2.0,Low
+S009-C7-10,S009,7,90.5,39.8,34,41,42,30,36.8,-1.52,Weak,-1.16,Weak,-1.04,Weak,-1.59,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,33,45,37,32,1,96.0,High
+S009-C8-01,S009,8,92.6,71.6,57,68,66,70,65.2,-0.07,Average,0.66,Average,0.51,Average,0.78,Average,0,None,2,Needs some support,57,75,60,62,0,0.5,Low
+S009-C8-02,S009,8,71.9,52.2,46,53,43,62,51.0,-0.69,Average,-0.27,Average,-0.82,Average,0.3,Average,0,None,2,Needs some support,42,58,36,58,1,34.5,Medium
+S009-C8-03,S009,8,98.5,30.0,32,26,34,22,28.5,-1.49,Weak,-1.94,Weak,-1.34,Weak,-2.11,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,48,33,29,20,1,100.0,High
+S009-C8-04,S009,8,99.4,42.8,39,47,29,42,39.2,-1.09,Weak,-0.64,Average,-1.63,Weak,-0.91,Average,2,"English, Science",0,Needs intensive support,48,53,33,48,1,89.5,High
+S009-C8-05,S009,8,86.9,51.6,33,39,56,52,45.0,-1.43,Weak,-1.14,Weak,-0.07,Average,-0.3,Average,2,"English, Maths",0,Needs intensive support,43,30,58,62,1,71.0,High
+S009-C8-06,S009,8,89.9,57.3,64,51,55,62,58.0,0.33,Average,-0.39,Average,-0.13,Average,0.3,Average,0,None,2,Needs some support,66,44,60,68,0,0.5,Low
+S009-C8-07,S009,8,100.0,39.2,55,39,40,27,40.2,-0.18,Average,-1.14,Weak,-0.99,Average,-1.81,Weak,2,"Maths, Social",0,Needs intensive support,54,37,43,29,1,85.0,High
+S009-C8-08,S009,8,79.7,49.5,46,54,48,49,49.2,-0.69,Average,-0.21,Average,-0.53,Average,-0.48,Average,0,None,2,Needs some support,53,51,54,43,0,31.0,Medium
+S009-C8-09,S009,8,81.0,54.4,31,50,35,37,38.2,-1.54,Weak,-0.46,Average,-1.28,Weak,-1.21,Weak,3,"English, Science, Social",0,Needs intensive support,43,56,42,30,1,89.5,High
+S009-C8-10,S009,8,98.2,75.4,67,69,72,77,71.2,0.5,Average,0.72,Average,0.85,Average,1.21,Strong,0,None,1,On track,71,59,63,79,0,0.0,Low
+S009-C9-01,S009,9,93.0,69.9,57,56,42,33,47.0,-0.06,Average,-0.23,Average,-0.96,Average,-1.53,Weak,1,Social,2,Needs some support,58,55,42,40,0,56.5,Medium
+S009-C9-02,S009,9,87.2,62.7,61,59,68,60,62.0,0.18,Average,-0.05,Average,0.62,Average,0.15,Average,0,None,2,Needs some support,67,51,59,65,0,0.0,Low
+S009-C9-03,S009,9,95.9,47.5,47,39,37,43,41.5,-0.65,Average,-1.21,Weak,-1.27,Weak,-0.91,Average,2,"Maths, Science",0,Needs intensive support,47,33,34,48,1,77.5,High
+S009-C9-04,S009,9,91.8,58.6,39,50,60,51,50.0,-1.13,Weak,-0.58,Average,0.13,Average,-0.41,Average,1,English,2,Needs some support,46,60,61,45,0,47.5,Medium
+S009-C9-05,S009,9,95.9,52.0,38,49,46,42,43.8,-1.19,Weak,-0.63,Average,-0.72,Average,-0.97,Average,1,English,0,Needs intensive support,37,52,47,33,1,64.5,High
+S009-C9-06,S009,9,91.9,57.3,53,65,48,53,54.8,-0.29,Average,0.29,Average,-0.6,Average,-0.29,Average,0,None,2,Needs some support,48,75,58,61,0,4.0,Low
+S009-C9-07,S009,9,81.2,48.9,42,49,65,40,49.0,-0.95,Average,-0.63,Average,0.44,Average,-1.09,Weak,1,Social,2,Needs some support,46,56,75,36,1,57.5,Medium
+S009-C9-08,S009,9,87.5,56.1,49,58,28,28,40.8,-0.53,Average,-0.11,Average,-1.81,Weak,-1.84,Weak,2,"Science, Social",0,Needs intensive support,52,53,33,42,1,78.5,High
+S009-C9-09,S009,9,96.8,43.2,22,51,48,37,39.5,-2.15,Weak,-0.52,Average,-0.6,Average,-1.28,Weak,2,"English, Social",0,Needs intensive support,39,42,49,28,1,76.0,High
+S009-C9-10,S009,9,80.2,45.9,34,43,16,32,31.2,-1.43,Weak,-0.98,Average,-2.54,Weak,-1.59,Weak,3,"English, Science, Social",0,Needs intensive support,34,56,18,27,1,99.0,High
+S009-C10-01,S009,10,85.9,39.9,43,22,37,41,35.8,-0.9,Average,-1.91,Weak,-1.11,Weak,-1.01,Weak,3,"Maths, Science, Social",0,Needs intensive support,45,23,39,37,1,97.5,High
+S009-C10-02,S009,10,84.1,89.8,67,62,88,81,74.5,0.4,Average,0.22,Average,1.54,Strong,1.22,Strong,0,None,1,On track,59,54,88,80,0,0.5,Low
+S009-C10-03,S009,10,77.0,80.8,86,75,73,71,76.2,1.43,Strong,0.91,Strong,0.76,Average,0.66,Average,0,None,1,On track,71,76,65,72,0,0.0,Low
+S009-C10-04,S009,10,98.8,32.8,34,18,21,42,28.8,-1.38,Weak,-2.12,Weak,-1.94,Weak,-0.96,Average,3,"English, Maths, Science",0,Needs intensive support,28,25,30,42,1,99.5,High
+S009-C10-05,S009,10,99.6,54.3,34,56,44,54,47.0,-1.38,Weak,-0.1,Average,-0.74,Average,-0.29,Average,1,English,0,Needs intensive support,41,54,46,60,0,43.0,Medium
+S009-C10-06,S009,10,75.7,61.4,72,58,54,63,61.8,0.67,Average,0.0,Average,-0.22,Average,0.21,Average,0,None,2,Needs some support,62,54,59,53,0,1.5,Low
+S009-C10-07,S009,10,89.7,56.6,59,65,50,68,60.5,-0.03,Average,0.38,Average,-0.43,Average,0.49,Average,0,None,2,Needs some support,66,66,59,64,0,2.5,Low
+S009-C10-08,S009,10,80.9,64.6,50,58,50,52,52.5,-0.52,Average,0.0,Average,-0.43,Average,-0.4,Average,0,None,2,Needs some support,58,58,60,44,0,35.5,Medium
+S009-C10-09,S009,10,90.3,55.4,52,68,60,57,59.2,-0.41,Average,0.54,Average,0.09,Average,-0.12,Average,0,None,2,Needs some support,51,72,59,54,0,6.0,Low
+S009-C10-10,S009,10,79.4,27.5,32,28,25,33,29.5,-1.49,Weak,-1.59,Weak,-1.73,Weak,-1.46,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,43,28,19,30,1,99.5,High
+S009-C11-01,S009,11,100.0,56.4,68,67,53,61,62.2,0.55,Average,0.4,Average,-0.45,Average,0.0,Average,0,None,2,Needs some support,70,66,45,64,0,0.0,Low
+S009-C11-02,S009,11,89.5,62.2,52,51,43,35,45.2,-0.48,Average,-0.49,Average,-1.04,Weak,-1.46,Weak,2,"Science, Social",0,Needs intensive support,60,56,43,58,0,69.0,High
+S009-C11-03,S009,11,97.7,47.7,42,51,43,44,45.0,-1.12,Weak,-0.49,Average,-1.04,Weak,-0.96,Average,2,"English, Science",0,Needs intensive support,44,55,37,39,1,42.0,Medium
+S009-C11-04,S009,11,77.1,47.8,53,37,34,42,41.5,-0.41,Average,-1.27,Weak,-1.57,Weak,-1.07,Weak,3,"Maths, Science, Social",0,Needs intensive support,58,44,25,41,1,73.5,High
+S009-C11-05,S009,11,86.4,68.2,65,51,69,68,63.2,0.36,Average,-0.49,Average,0.49,Average,0.39,Average,0,None,2,Needs some support,59,50,65,71,0,3.0,Low
+S009-C11-06,S009,11,96.0,47.1,56,49,45,47,49.2,-0.22,Average,-0.6,Average,-0.92,Average,-0.79,Average,0,None,0,Needs intensive support,61,51,41,50,0,36.0,Medium
+S009-C11-07,S009,11,97.8,51.9,46,60,47,59,53.0,-0.87,Average,0.01,Average,-0.81,Average,-0.11,Average,0,None,2,Needs some support,46,55,54,69,0,24.0,Low
+S009-C11-08,S009,11,84.8,89.6,70,85,81,83,79.8,0.68,Average,1.41,Strong,1.2,Strong,1.24,Strong,0,None,1,On track,68,91,90,74,0,0.0,Low
+S009-C11-09,S009,11,74.7,53.3,27,41,51,45,41.0,-2.09,Weak,-1.05,Weak,-0.57,Average,-0.9,Average,2,"English, Maths",0,Needs intensive support,32,33,48,49,1,80.5,High
+S009-C11-10,S009,11,96.2,85.3,83,82,70,75,77.5,1.52,Strong,1.24,Strong,0.55,Average,0.79,Strong,0,None,1,On track,83,82,72,70,0,0.0,Low
+S009-C12-01,S009,12,71.7,51.9,43,32,48,51,43.5,-0.68,Average,-1.4,Weak,-0.47,Average,-0.28,Average,1,Maths,0,Needs intensive support,42,27,37,54,1,77.0,High
+S009-C12-02,S009,12,85.4,67.0,62,59,50,59,57.5,0.29,Average,0.05,Average,-0.36,Average,0.12,Average,0,None,2,Needs some support,66,61,51,60,0,6.5,Low
+S009-C12-03,S009,12,83.2,90.5,67,72,66,73,69.5,0.54,Average,0.75,Average,0.51,Average,0.81,Average,0,None,1,On track,70,75,60,72,0,0.0,Low
+S009-C12-04,S009,12,83.6,27.3,29,35,33,8,26.2,-1.39,Weak,-1.24,Weak,-1.29,Weak,-2.41,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,23,27,28,9,1,99.5,High
+S009-C12-05,S009,12,90.4,86.0,85,86,79,86,84.0,1.46,Strong,1.51,Strong,1.22,Strong,1.46,Strong,0,None,1,On track,86,82,66,73,0,0.0,Low
+S009-C12-06,S009,12,84.8,46.8,33,46,49,49,44.2,-1.19,Weak,-0.65,Average,-0.41,Average,-0.38,Average,1,English,0,Needs intensive support,39,36,59,43,1,72.5,High
+S009-C12-07,S009,12,90.6,69.1,73,55,59,58,61.2,0.85,Average,-0.16,Average,0.13,Average,0.07,Average,0,None,2,Needs some support,68,64,50,63,0,5.0,Low
+S009-C12-08,S009,12,95.5,79.1,78,63,73,69,70.8,1.11,Strong,0.27,Average,0.9,Average,0.61,Average,0,None,1,On track,80,61,65,68,0,0.5,Low
+S009-C12-09,S009,12,87.1,70.4,71,73,61,66,67.8,0.75,Average,0.81,Average,0.24,Average,0.47,Average,0,None,1,On track,62,62,61,70,0,0.0,Low
+S009-C12-10,S009,12,68.0,45.3,43,40,22,35,35.0,-0.68,Average,-0.97,Average,-1.89,Weak,-1.07,Weak,2,"Science, Social",0,Needs intensive support,50,35,24,26,1,94.0,High
+S010-C6-01,S010,6,79.3,88.1,77,62,60,72,67.8,1.17,Strong,0.28,Average,0.13,Average,0.94,Average,0,None,1,On track,73,68,60,73,0,2.0,Low
+S010-C6-02,S010,6,88.8,44.4,21,18,38,31,27.0,-2.13,Weak,-2.15,Weak,-1.18,Weak,-1.59,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,25,31,41,40,1,96.5,High
+S010-C6-03,S010,6,93.6,58.7,38,37,44,29,37.0,-1.13,Weak,-1.1,Weak,-0.82,Average,-1.71,Weak,3,"English, Maths, Social",0,Needs intensive support,48,48,41,20,1,78.5,High
+S010-C6-04,S010,6,92.4,67.4,36,46,45,53,45.0,-1.25,Weak,-0.6,Average,-0.76,Average,-0.23,Average,1,English,2,Needs some support,38,43,51,56,1,52.0,Medium
+S010-C6-05,S010,6,100.0,64.2,52,65,58,66,60.2,-0.3,Average,0.45,Average,0.01,Average,0.57,Average,0,None,2,Needs some support,58,65,61,79,0,5.0,Low
+S010-C6-06,S010,6,78.7,56.3,40,58,62,68,57.0,-1.01,Weak,0.06,Average,0.25,Average,0.69,Average,1,English,2,Needs some support,34,67,51,61,1,43.0,Medium
+S010-C6-07,S010,6,97.3,69.2,52,68,64,62,61.5,-0.3,Average,0.62,Average,0.37,Average,0.32,Average,0,None,2,Needs some support,51,64,74,69,0,4.0,Low
+S010-C6-08,S010,6,90.6,73.5,65,59,61,58,60.8,0.46,Average,0.12,Average,0.19,Average,0.08,Average,0,None,2,Needs some support,57,57,59,59,0,1.0,Low
+S010-C6-09,S010,6,94.1,44.7,50,32,44,35,40.2,-0.42,Average,-1.38,Weak,-0.82,Average,-1.34,Weak,2,"Maths, Social",0,Needs intensive support,51,30,52,43,1,83.0,High
+S010-C6-10,S010,6,87.7,58.7,60,52,64,57,58.2,0.17,Average,-0.27,Average,0.37,Average,0.01,Average,0,None,2,Needs some support,66,46,55,55,0,1.0,Low
+S010-C7-01,S010,7,80.3,62.4,51,61,68,48,57.0,-0.53,Average,0.01,Average,0.34,Average,-0.64,Average,0,None,2,Needs some support,52,67,59,43,0,7.5,Low
+S010-C7-02,S010,7,70.6,69.0,57,54,52,68,57.8,-0.18,Average,-0.4,Average,-0.51,Average,0.42,Average,0,None,2,Needs some support,60,56,47,62,0,28.0,Low
+S010-C7-03,S010,7,91.0,60.9,47,50,45,36,44.5,-0.76,Average,-0.63,Average,-0.88,Average,-1.28,Weak,1,Social,0,Needs intensive support,43,54,43,37,1,75.5,High
+S010-C7-04,S010,7,83.3,70.3,63,57,61,67,62.0,0.17,Average,-0.22,Average,-0.03,Average,0.37,Average,0,None,2,Needs some support,57,60,66,62,0,0.0,Low
+S010-C7-05,S010,7,80.8,62.3,62,58,70,63,63.2,0.11,Average,-0.17,Average,0.45,Average,0.15,Average,0,None,2,Needs some support,58,63,58,56,0,0.0,Low
+S010-C7-06,S010,7,76.9,81.7,65,61,67,73,66.5,0.28,Average,0.01,Average,0.29,Average,0.68,Average,0,None,1,On track,66,68,65,77,0,0.5,Low
+S010-C7-07,S010,7,81.0,72.0,51,58,53,54,54.0,-0.53,Average,-0.17,Average,-0.46,Average,-0.32,Average,0,None,2,Needs some support,53,57,46,50,0,10.0,Low
+S010-C7-08,S010,7,79.7,83.2,45,55,63,65,57.0,-0.88,Average,-0.34,Average,0.08,Average,0.26,Average,0,None,2,Needs some support,45,52,64,56,0,46.5,Medium
+S010-C7-09,S010,7,87.5,61.0,45,58,54,54,52.8,-0.88,Average,-0.17,Average,-0.4,Average,-0.32,Average,0,None,2,Needs some support,50,52,56,49,0,27.0,Low
+S010-C7-10,S010,7,87.4,43.7,26,37,30,39,33.0,-1.98,Weak,-1.4,Weak,-1.68,Weak,-1.12,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,28,46,29,44,1,98.5,High
+S010-C8-01,S010,8,100.0,38.6,34,39,28,39,35.0,-1.37,Weak,-1.14,Weak,-1.69,Weak,-1.09,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,38,40,46,29,1,98.5,High
+S010-C8-02,S010,8,99.6,41.6,25,28,36,25,28.5,-1.88,Weak,-1.82,Weak,-1.23,Weak,-1.93,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,38,24,40,33,1,98.5,High
+S010-C8-03,S010,8,86.2,41.7,52,33,44,39,42.0,-0.35,Average,-1.51,Weak,-0.76,Average,-1.09,Weak,2,"Maths, Social",0,Needs intensive support,49,34,52,45,1,84.5,High
+S010-C8-04,S010,8,88.0,49.9,32,43,42,41,39.5,-1.49,Weak,-0.89,Average,-0.88,Average,-0.97,Average,1,English,0,Needs intensive support,36,45,36,50,1,88.0,High
+S010-C8-05,S010,8,79.4,49.4,43,46,24,41,38.5,-0.86,Average,-0.7,Average,-1.92,Weak,-0.97,Average,1,Science,0,Needs intensive support,53,51,25,39,1,83.0,High
+S010-C8-06,S010,8,85.8,70.1,54,61,49,58,55.5,-0.24,Average,0.22,Average,-0.47,Average,0.06,Average,0,None,2,Needs some support,55,67,50,53,0,7.0,Low
+S010-C8-07,S010,8,98.5,78.0,71,70,77,78,74.0,0.72,Average,0.78,Average,1.14,Strong,1.27,Strong,0,None,1,On track,76,66,78,79,0,0.0,Low
+S010-C8-08,S010,8,88.5,35.3,47,32,36,33,37.0,-0.64,Average,-1.57,Weak,-1.23,Weak,-1.45,Weak,3,"Maths, Science, Social",0,Needs intensive support,45,30,36,37,1,97.5,High
+S010-C8-09,S010,8,65.3,77.1,65,62,79,59,66.2,0.38,Average,0.29,Average,1.26,Strong,0.12,Average,0,None,2,Needs some support,73,56,69,64,0,29.5,Low
+S010-C8-10,S010,8,90.9,79.1,55,54,69,63,60.2,-0.18,Average,-0.21,Average,0.68,Average,0.36,Average,0,None,2,Needs some support,42,48,50,63,0,5.0,Low
+S010-C9-01,S010,9,83.7,39.1,32,20,2,29,20.8,-1.55,Weak,-2.31,Weak,-3.4,Weak,-1.78,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,27,23,4,29,1,99.5,High
+S010-C9-02,S010,9,71.9,24.7,37,31,28,41,34.2,-1.25,Weak,-1.68,Weak,-1.81,Weak,-1.03,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,31,34,23,32,1,98.0,High
+S010-C9-03,S010,9,100.0,61.2,58,45,56,56,53.8,0.0,Average,-0.87,Average,-0.11,Average,-0.1,Average,0,None,2,Needs some support,70,49,56,57,0,15.5,Low
+S010-C9-04,S010,9,88.4,73.1,63,75,55,50,60.8,0.3,Average,0.87,Strong,-0.17,Average,-0.47,Average,0,None,2,Needs some support,65,64,61,51,0,7.5,Low
+S010-C9-05,S010,9,81.6,72.6,50,48,48,58,51.0,-0.47,Average,-0.69,Average,-0.6,Average,0.02,Average,0,None,2,Needs some support,48,41,61,64,0,36.0,Medium
+S010-C9-06,S010,9,82.9,67.6,39,46,51,33,42.2,-1.13,Weak,-0.81,Average,-0.42,Average,-1.53,Weak,2,"English, Social",0,Needs intensive support,33,54,54,36,1,71.0,High
+S010-C9-07,S010,9,79.6,72.1,48,61,64,63,59.0,-0.59,Average,0.06,Average,0.37,Average,0.33,Average,0,None,2,Needs some support,50,54,68,69,0,27.0,Low
+S010-C9-08,S010,9,86.1,60.3,64,47,44,58,53.2,0.36,Average,-0.75,Average,-0.84,Average,0.02,Average,0,None,2,Needs some support,64,52,49,65,0,35.0,Medium
+S010-C9-09,S010,9,80.4,39.4,33,36,38,44,37.8,-1.49,Weak,-1.39,Weak,-1.21,Weak,-0.85,Average,3,"English, Maths, Science",0,Needs intensive support,30,41,43,40,1,94.5,High
+S010-C9-10,S010,9,86.5,66.7,60,66,57,53,59.0,0.12,Average,0.35,Average,-0.05,Average,-0.29,Average,0,None,2,Needs some support,51,63,60,47,0,1.5,Low
+S010-C10-01,S010,10,76.4,49.1,38,38,32,45,38.2,-1.17,Weak,-1.06,Weak,-1.37,Weak,-0.79,Average,3,"English, Maths, Science",0,Needs intensive support,32,32,31,41,1,87.0,High
+S010-C10-02,S010,10,95.6,52.5,36,46,44,44,42.5,-1.27,Weak,-0.63,Average,-0.74,Average,-0.85,Average,1,English,0,Needs intensive support,41,50,45,45,0,59.0,Medium
+S010-C10-03,S010,10,87.7,75.5,59,55,51,58,55.8,-0.03,Average,-0.16,Average,-0.38,Average,-0.07,Average,0,None,2,Needs some support,61,50,54,53,0,15.5,Low
+S010-C10-04,S010,10,88.2,65.9,56,31,58,52,49.2,-0.19,Average,-1.43,Weak,-0.02,Average,-0.4,Average,1,Maths,2,Needs some support,57,33,69,57,1,48.0,Medium
+S010-C10-05,S010,10,88.2,76.8,72,64,76,75,71.8,0.67,Average,0.32,Average,0.92,Strong,0.88,Strong,0,None,1,On track,70,64,79,78,0,0.0,Low
+S010-C10-06,S010,10,81.7,74.6,52,68,67,67,63.5,-0.41,Average,0.54,Average,0.45,Average,0.44,Average,0,None,2,Needs some support,41,62,75,73,0,4.5,Low
+S010-C10-07,S010,10,91.3,69.7,46,50,40,41,44.2,-0.73,Average,-0.42,Average,-0.95,Average,-1.01,Weak,1,Social,2,Needs some support,48,50,35,45,1,80.0,High
+S010-C10-08,S010,10,96.8,59.9,48,47,46,52,48.2,-0.63,Average,-0.58,Average,-0.64,Average,-0.4,Average,0,None,2,Needs some support,44,48,50,51,0,51.0,Medium
+S010-C10-09,S010,10,98.2,33.5,32,16,31,31,27.5,-1.49,Weak,-2.23,Weak,-1.42,Weak,-1.57,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,37,15,38,38,1,100.0,High
+S010-C10-10,S010,10,80.0,67.3,45,52,62,61,55.0,-0.79,Average,-0.32,Average,0.19,Average,0.1,Average,0,None,2,Needs some support,48,50,64,54,0,43.5,Medium
+S010-C11-01,S010,11,80.2,64.1,49,30,55,48,45.5,-0.67,Average,-1.66,Weak,-0.33,Average,-0.73,Average,1,Maths,2,Needs some support,45,28,46,49,1,62.5,High
+S010-C11-02,S010,11,79.2,59.0,69,69,53,59,62.5,0.62,Average,0.51,Average,-0.45,Average,-0.11,Average,0,None,2,Needs some support,61,56,41,53,0,1.5,Low
+S010-C11-03,S010,11,85.6,100.0,85,73,88,88,83.5,1.65,Strong,0.74,Average,1.61,Strong,1.52,Strong,0,None,1,On track,88,69,72,92,0,0.0,Low
+S010-C11-04,S010,11,87.1,55.6,41,32,46,27,36.5,-1.19,Weak,-1.55,Weak,-0.87,Average,-1.91,Weak,3,"English, Maths, Social",0,Needs intensive support,45,33,45,14,1,89.0,High
+S010-C11-05,S010,11,93.9,32.3,17,6,12,16,12.8,-2.74,Weak,-3.0,Weak,-2.87,Weak,-2.53,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,18,9,32,26,1,100.0,High
+S010-C11-06,S010,11,82.1,40.0,36,21,31,9,24.2,-1.51,Weak,-2.17,Weak,-1.75,Weak,-2.93,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,20,12,34,19,1,100.0,High
+S010-C11-07,S010,11,81.6,71.7,56,69,51,63,59.8,-0.22,Average,0.51,Average,-0.57,Average,0.11,Average,0,None,2,Needs some support,55,72,44,61,0,12.0,Low
+S010-C11-08,S010,11,86.7,54.7,37,44,44,46,42.8,-1.45,Weak,-0.88,Average,-0.98,Average,-0.84,Average,1,English,0,Needs intensive support,43,50,47,49,0,79.0,High
+S010-C11-09,S010,11,94.4,66.8,41,57,40,54,48.0,-1.19,Weak,-0.16,Average,-1.22,Weak,-0.39,Average,2,"English, Science",2,Needs some support,51,62,41,57,0,43.5,Medium
+S010-C11-10,S010,11,72.7,69.9,54,52,69,52,56.8,-0.35,Average,-0.44,Average,0.49,Average,-0.51,Average,0,None,2,Needs some support,48,52,67,58,0,10.5,Low
+S010-C12-01,S010,12,88.6,52.0,35,46,41,19,35.2,-1.09,Weak,-0.65,Average,-0.85,Average,-1.86,Weak,2,"English, Social",0,Needs intensive support,34,40,40,33,1,90.5,High
+S010-C12-02,S010,12,83.5,54.9,19,61,45,42,41.8,-1.9,Weak,0.16,Average,-0.63,Average,-0.72,Average,1,English,0,Needs intensive support,20,61,38,43,1,85.0,High
+S010-C12-03,S010,12,100.0,82.9,74,67,65,62,67.0,0.9,Average,0.48,Average,0.46,Average,0.27,Average,0,None,1,On track,79,63,63,73,0,0.0,Low
+S010-C12-04,S010,12,82.5,39.5,35,23,38,36,33.0,-1.09,Weak,-1.89,Weak,-1.02,Weak,-1.02,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,30,39,44,34,1,97.5,High
+S010-C12-05,S010,12,83.8,80.7,61,41,52,46,50.0,0.24,Average,-0.92,Average,-0.25,Average,-0.52,Average,0,None,2,Needs some support,60,39,54,49,1,55.0,Medium
+S010-C12-06,S010,12,77.3,47.4,28,41,41,44,38.5,-1.44,Weak,-0.92,Average,-0.85,Average,-0.62,Average,1,English,0,Needs intensive support,24,45,49,47,1,83.5,High
+S010-C12-07,S010,12,91.8,51.0,32,29,48,37,36.5,-1.24,Weak,-1.56,Weak,-0.47,Average,-0.97,Weak,3,"English, Maths, Social",0,Needs intensive support,37,23,43,32,1,93.0,High
+S010-C12-08,S010,12,81.4,62.2,53,57,49,58,54.2,-0.17,Average,-0.06,Average,-0.41,Average,0.07,Average,0,None,2,Needs some support,43,49,55,59,0,13.5,Low
+S010-C12-09,S010,12,79.0,38.7,28,20,15,15,19.5,-1.44,Weak,-2.05,Weak,-2.27,Weak,-2.06,Weak,4,"English, Maths, Science, Social",0,Needs intensive support,32,19,19,14,1,99.0,High
+S010-C12-10,S010,12,93.2,60.0,39,34,45,36,38.5,-0.88,Weak,-1.29,Weak,-0.63,Average,-1.02,Weak,3,"English, Maths, Social",0,Needs intensive support,39,42,48,44,1,84.0,High
